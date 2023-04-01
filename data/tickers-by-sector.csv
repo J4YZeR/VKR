@@ -1,0 +1,1282 @@
+ticker,sector,index,name
+XOM,Energy,GSPE,Exxon Mobil Corporation
+CVX,Energy,GSPE,Chevron Corporation
+SHEL,Energy,GSPE,Shell plc
+TTE,Energy,GSPE,TotalEnergies SE
+COP,Energy,GSPE,ConocoPhillips
+EQNR,Energy,GSPE,Equinor ASA
+BP,Energy,GSPE,BP p.l.c.
+ENB,Energy,GSPE,Enbridge Inc.
+EOG,Energy,GSPE,EOG Resources
+SLB,Energy,GSPE,Schlumberger Limited
+CNQ,Energy,GSPE,Canadian Natural Resources Limited
+PBR,Energy,GSPE,Petróleo Brasileiro S.A. - Petrobras
+OXY,Energy,GSPE,Occidental Petroleum Corporation
+PXD,Energy,GSPE,Pioneer Natural Resources Company
+EPD,Energy,GSPE,Enterprise Products Partners L.P.
+MPC,Energy,GSPE,Marathon Petroleum Corporation
+E,Energy,GSPE,Eni S.p.A.
+PSX,Energy,GSPE,Phillips 66
+VLO,Energy,GSPE,Valero Energy Corporation
+WDS,Energy,GSPE,Woodside Energy Group Ltd
+TRP,Energy,GSPE,TC Energy Corporation
+HES,Energy,GSPE,Hess Corporation
+SU,Energy,GSPE,Suncor Energy Inc.
+WMB,Energy,GSPE,The Williams Companies
+KMI,Energy,GSPE,Kinder Morgan
+DVN,Energy,GSPE,Devon Energy Corporation
+ET,Energy,GSPE,Energy Transfer LP
+CVE,Energy,GSPE,Cenovus Energy Inc.
+HAL,Energy,GSPE,Halliburton Company
+MPLX,Energy,GSPE,MPLX LP
+OKE,Energy,GSPE,ONEOK
+BKR,Energy,GSPE,Baker Hughes Company
+FANG,Energy,GSPE,Diamondback Energy
+TS,Energy,GSPE,Tenaris S.A.
+TPL,Energy,GSPE,Texas Pacific Land Corporation
+CTRA,Energy,GSPE,Coterra Energy Inc.
+PBA,Energy,GSPE,Pembina Pipeline Corporation
+EC,Energy,GSPE,Ecopetrol S.A.
+MRO,Energy,GSPE,Marathon Oil Corporation
+TRGP,Energy,GSPE,Targa Resources Corp.
+APA,Energy,GSPE,APA Corporation
+EQT,Energy,GSPE,EQT Corporation
+CHK,Energy,GSPE,Chesapeake Energy Corporation
+OVV,Energy,GSPE,Ovintiv Inc.
+MMP,Energy,GSPE,Magellan Midstream Partners
+DINO,Energy,GSPE,HF Sinclair Corporation
+AR,Energy,GSPE,Antero Resources Corporation
+WES,Energy,GSPE,Western Midstream Partners
+CCJ,Energy,GSPE,Cameco Corporation
+PAA,Energy,GSPE,Plains All American Pipeline
+NOV,Energy,GSPE,NOV Inc.
+DCP,Energy,GSPE,DCP Midstream
+HESM,Energy,GSPE,Hess Midstream LP
+MTDR,Energy,GSPE,Matador Resources Company
+SWN,Energy,GSPE,Southwestern Energy Company
+MUR,Energy,GSPE,Murphy Oil Corporation
+RRC,Energy,GSPE,Range Resources Corporation
+MGY,Energy,GSPE,Magnolia Oil & Gas Corporation
+YPF,Energy,GSPE,YPF Sociedad Anónima
+NFG,Energy,GSPE,National Fuel Gas Company
+PDCE,Energy,GSPE,PDC Energy
+CHX,Energy,GSPE,ChampionX Corporation
+VVV,Energy,GSPE,Valvoline Inc.
+CHRD,Energy,GSPE,Chord Energy Corporation
+DTM,Energy,GSPE,DT Midstream
+CSAN,Energy,GSPE,Cosan S.A.
+ENLC,Energy,GSPE,EnLink Midstream
+VNOM,Energy,GSPE,Viper Energy Partners LP
+FTI,Energy,GSPE,TechnipFMC plc
+AM,Energy,GSPE,Antero Midstream Corporation
+PR,Energy,GSPE,Permian Resources Corporation
+HP,Energy,GSPE,Helmerich & Payne
+PBF,Energy,GSPE,PBF Energy Inc.
+CIVI,Energy,GSPE,Civitas Resources
+NE,Energy,GSPE,Noble Corporation Plc
+VAL,Energy,GSPE,Valaris Limited
+DEN,Energy,GSPE,Denbury Inc.
+SM,Energy,GSPE,SM Energy Company
+BTU,Energy,GSPE,Peabody Energy Corporation
+ERF,Energy,GSPE,Enerplus Corporation
+CPG,Energy,GSPE,Crescent Point Energy Corp.
+EURN,Energy,GSPE,Euronav NV
+SUN,Energy,GSPE,Sunoco LP
+PTEN,Energy,GSPE,Patterson-UTI Energy
+BSM,Energy,GSPE,Black Stone Minerals
+CRK,Energy,GSPE,Comstock Resources
+STNG,Energy,GSPE,Scorpio Tankers Inc.
+CRC,Energy,GSPE,California Resources Corporation
+ETRN,Energy,GSPE,Equitrans Midstream Corporation
+WHD,Energy,GSPE,Cactus
+WFRD,Energy,GSPE,Weatherford International plc
+CVI,Energy,GSPE,CVR Energy
+FRO,Energy,GSPE,Frontline Ltd.
+CNX,Energy,GSPE,CNX Resources Corporation
+CEQP,Energy,GSPE,Crestwood Equity Partners LP
+PAGP,Energy,GSPE,Plains GP Holdings
+VET,Energy,GSPE,Vermilion Energy Inc.
+LBRT,Energy,GSPE,Liberty Energy Inc.
+BHP,Materials,SP500-15,BHP Group Limited
+LIN,Materials,SP500-15,Linde plc
+RIO,Materials,SP500-15,Rio Tinto Group
+VALE,Materials,SP500-15,Vale S.A.
+CTA,Materials,SP500-15,E. I. du Pont de Nemours and Company
+APD,Materials,SP500-15,Air Products and Chemicals
+SHW,Materials,SP500-15,The Sherwin-Williams Company
+FCX,Materials,SP500-15,Freeport-McMoRan Inc.
+SCCO,Materials,SP500-15,Southern Copper Corporation
+CTVA,Materials,SP500-15,Corteva
+ECL,Materials,SP500-15,Ecolab Inc.
+NTR,Materials,SP500-15,Nutrien Ltd.
+NUE,Materials,SP500-15,Nucor Corporation
+NEM,Materials,SP500-15,Newmont Corporation
+DOW,Materials,SP500-15,Dow Inc.
+DD,Materials,SP500-15,DuPont de Nemours
+PPG,Materials,SP500-15,PPG Industries
+GOLD,Materials,SP500-15,Barrick Gold Corporation
+CRH,Materials,SP500-15,CRH plc
+ALB,Materials,SP500-15,Albemarle Corporation
+FNV,Materials,SP500-15,Franco-Nevada Corporation
+LYB,Materials,SP500-15,LyondellBasell Industries N.V.
+IFF,Materials,SP500-15,International Flavors & Fragrances Inc.
+SQM,Materials,SP500-15,Sociedad Química y Minera de Chile S.A.
+VMC,Materials,SP500-15,Vulcan Materials Company
+AEM,Materials,SP500-15,Agnico Eagle Mines Limited
+MLM,Materials,SP500-15,Martin Marietta Materials
+MT,Materials,SP500-15,ArcelorMittal S.A.
+TECK,Materials,SP500-15,Teck Resources Limited
+STLD,Materials,SP500-15,Steel Dynamics
+CF,Materials,SP500-15,CF Industries Holdings
+WPM,Materials,SP500-15,Wheaton Precious Metals Corp.
+PKX,Materials,SP500-15,POSCO Holdings Inc.
+FMC,Materials,SP500-15,FMC Corporation
+MOS,Materials,SP500-15,The Mosaic Company
+AVTR,Materials,SP500-15,Avantor
+WLK,Materials,SP500-15,Westlake Corporation
+RPM,Materials,SP500-15,RPM International Inc.
+SUZ,Materials,SP500-15,Suzano S.A.
+RS,Materials,SP500-15,Reliance Steel & Aluminum Co.
+CE,Materials,SP500-15,Celanese Corporation
+EMN,Materials,SP500-15,Eastman Chemical Company
+SSL,Materials,SP500-15,Sasol Limited
+ICL,Materials,SP500-15,ICL Group Ltd
+GFI,Materials,SP500-15,Gold Fields Limited
+GGB,Materials,SP500-15,Gerdau S.A.
+JHX,Materials,SP500-15,James Hardie Industries plc
+AU,Materials,SP500-15,AngloGold Ashanti Limited
+CLF,Materials,SP500-15,Cleveland-Cliffs Inc.
+SBSW,Materials,SP500-15,Sibanye Stillwater Limited
+AA,Materials,SP500-15,Alcoa Corporation
+OLN,Materials,SP500-15,Olin Corporation
+RGLD,Materials,SP500-15,Royal Gold
+WFG,Materials,SP500-15,West Fraser Timber Co. Ltd.
+TRQ,Materials,SP500-15,Turquoise Hill Resources Ltd.
+ASH,Materials,SP500-15,Ashland Inc.
+TX,Materials,SP500-15,Ternium S.A.
+AXTA,Materials,SP500-15,Axalta Coating Systems Ltd.
+X,Materials,SP500-15,United States Steel Corporation
+CMC,Materials,SP500-15,Commercial Metals Company
+MP,Materials,SP500-15,MP Materials Corp.
+UNVR,Materials,SP500-15,Univar Solutions Inc.
+AUY,Materials,SP500-15,Yamana Gold Inc.
+HUN,Materials,SP500-15,Huntsman Corporation
+EXP,Materials,SP500-15,Eagle Materials Inc.
+UFPI,Materials,SP500-15,UFP Industries
+CC,Materials,SP500-15,The Chemours Company
+ESI,Materials,SP500-15,Element Solutions Inc
+BCPC,Materials,SP500-15,Balchem Corporation
+LTHM,Materials,SP500-15,Livent Corporation
+FUL,Materials,SP500-15,H.B. Fuller Company
+SSD,Materials,SP500-15,Simpson Manufacturing Co.
+CBT,Materials,SP500-15,Cabot Corporation
+EVA,Materials,SP500-15,Enviva Inc.
+AGI,Materials,SP500-15,Alamos Gold Inc.
+BAK,Materials,SP500-15,Braskem S.A.
+SUM,Materials,SP500-15,Summit Materials
+PAAS,Materials,SP500-15,Pan American Silver Corp.
+HL,Materials,SP500-15,Hecla Mining Company
+KWR,Materials,SP500-15,Quaker Chemical Corporation
+LAC,Materials,SP500-15,Lithium Americas Corp.
+SSRM,Materials,SP500-15,SSR Mining Inc.
+AVNT,Materials,SP500-15,Avient Corporation
+SXT,Materials,SP500-15,Sensient Technologies Corporation
+NEU,Materials,SP500-15,NewMarket Corporation
+SMG,Materials,SP500-15,The Scotts Miracle-Gro Company
+BCC,Materials,SP500-15,Boise Cascade Company
+NGVT,Materials,SP500-15,Ingevity Corporation
+MEOH,Materials,SP500-15,Methanex Corporation
+IOSP,Materials,SP500-15,Innospec Inc.
+SCL,Materials,SP500-15,Stepan Company
+AG,Materials,SP500-15,First Majestic Silver Corp.
+SLVM,Materials,SP500-15,Sylvamo Corporation
+AMR,Materials,SP500-15,Alpha Metallurgical Resources
+WDFC,Materials,SP500-15,WD-40 Company
+OR,Materials,SP500-15,Osisko Gold Royalties Ltd
+TROX,Materials,SP500-15,Tronox Holdings plc
+BVN,Materials,SP500-15,Compañía de Minas Buenaventura S.A.A.
+TFPM,Materials,SP500-15,Triple Flag Precious Metals Corp.
+MTX,Materials,SP500-15,Minerals Technologies Inc.
+GPRE,Materials,SP500-15,Green Plains Inc.
+HCC,Materials,SP500-15,Warrior Met Coal
+CMP,Materials,SP500-15,Compass Minerals International
+MTRN,Materials,SP500-15,Materion Corporation
+CSTM,Materials,SP500-15,Constellium SE
+RFP,Materials,SP500-15,Resolute Forest Products Inc.
+SAND,Materials,SP500-15,Sandstorm Gold Ltd.
+LOMA,Materials,SP500-15,Loma Negra Compañía Industrial Argentina Sociedad Anónima
+TGLS,Materials,SP500-15,Tecnoglass Inc.
+EGO,Materials,SP500-15,Eldorado Gold Corporation
+PRM,Materials,SP500-15,Perimeter Solutions
+HBM,Materials,SP500-15,Hudbay Minerals Inc.
+KALU,Materials,SP500-15,Kaiser Aluminum Corporation
+ERO,Materials,SP500-15,Ero Copper Corp.
+UAN,Materials,SP500-15,CVR Partners
+ASIX,Materials,SP500-15,AdvanSix Inc.
+ECVT,Materials,SP500-15,Ecovyst Inc.
+LXU,Materials,SP500-15,LSB Industries
+OEC,Materials,SP500-15,Orion Engineered Carbons S.A.
+MATV,Materials,SP500-15,Mativ Holdings
+KRO,Materials,SP500-15,Kronos Worldwide
+SA,Materials,SP500-15,Seabridge Gold Inc.
+SCHN,Materials,SP500-15,Schnitzer Steel Industries
+TSE,Materials,SP500-15,Trinseo PLC
+UPS,Industrials,SP500-20,United Parcel Service
+RTX,Industrials,SP500-20,Raytheon Technologies Corporation
+HON,Industrials,SP500-20,Honeywell International Inc.
+UNP,Industrials,SP500-20,Union Pacific Corporation
+DE,Industrials,SP500-20,Deere & Company
+LMT,Industrials,SP500-20,Lockheed Martin Corporation
+CAT,Industrials,SP500-20,Caterpillar Inc.
+BA,Industrials,SP500-20,The Boeing Company
+ADP,Industrials,SP500-20,Automatic Data Processing
+GE,Industrials,SP500-20,General Electric Company
+CNI,Industrials,SP500-20,Canadian National Railway Company
+NOC,Industrials,SP500-20,Northrop Grumman Corporation
+CP,Industrials,SP500-20,Canadian Pacific Railway Limited
+MMM,Industrials,SP500-20,3M Company
+ITW,Industrials,SP500-20,Illinois Tool Works Inc.
+CSX,Industrials,SP500-20,CSX Corporation
+WM,Industrials,SP500-20,Waste Management
+GD,Industrials,SP500-20,General Dynamics Corporation
+ETN,Industrials,SP500-20,Eaton Corporation plc
+NSC,Industrials,SP500-20,Norfolk Southern Corporation
+ABB,Industrials,SP500-20,ABB Ltd
+EMR,Industrials,SP500-20,Emerson Electric Co.
+TRI,Industrials,SP500-20,Thomson Reuters Corporation
+ROP,Industrials,SP500-20,Roper Technologies
+CTAS,Industrials,SP500-20,Cintas Corporation
+FDX,Industrials,SP500-20,FedEx Corporation
+JCI,Industrials,SP500-20,Johnson Controls International plc
+PAYX,Industrials,SP500-20,Paychex
+RSG,Industrials,SP500-20,Republic Services
+LHX,Industrials,SP500-20,L3Harris Technologies
+TT,Industrials,SP500-20,Trane Technologies plc
+PH,Industrials,SP500-20,Parker-Hannifin Corporation
+CARR,Industrials,SP500-20,Carrier Global Corporation
+WCN,Industrials,SP500-20,Waste Connections
+PCAR,Industrials,SP500-20,PACCAR Inc
+CMI,Industrials,SP500-20,Cummins Inc.
+TDG,Industrials,SP500-20,TransDigm Group Incorporated
+ODFL,Industrials,SP500-20,Old Dominion Freight Line
+OTIS,Industrials,SP500-20,Otis Worldwide Corporation
+AME,Industrials,SP500-20,AMETEK
+ROK,Industrials,SP500-20,Rockwell Automation
+GWW,Industrials,SP500-20,W.W. Grainger
+VRSK,Industrials,SP500-20,Verisk Analytics
+FAST,Industrials,SP500-20,Fastenal Company
+FERG,Industrials,SP500-20,Ferguson plc
+GPN,Industrials,SP500-20,Global Payments Inc.
+URI,Industrials,SP500-20,United Rentals
+EFX,Industrials,SP500-20,Equifax Inc.
+LUV,Industrials,SP500-20,Southwest Airlines Co.
+IR,Industrials,SP500-20,Ingersoll Rand Inc.
+ZTO,Industrials,SP500-20,ZTO Express (Cayman) Inc.
+PWR,Industrials,SP500-20,Quanta Services
+CNHI,Industrials,SP500-20,CNH Industrial N.V.
+DAL,Industrials,SP500-20,Delta Air Lines
+XYL,Industrials,SP500-20,Xylem Inc.
+DOV,Industrials,SP500-20,Dover Corporation
+JBHT,Industrials,SP500-20,J.B. Hunt Transport Services
+WAB,Industrials,SP500-20,Westinghouse Air Brake Technologies Corporation
+HEI,Industrials,SP500-20,HEICO Corporation
+ZNH,Industrials,SP500-20,China Southern Airlines Company Limited
+IEX,Industrials,SP500-20,IDEX Corporation
+EXPD,Industrials,SP500-20,Expeditors International of Washington
+RYAAY,Industrials,SP500-20,Ryanair Holdings plc
+IEP,Industrials,SP500-20,Icahn Enterprises L.P.
+RTO,Industrials,SP500-20,Rentokil Initial plc
+HWM,Industrials,SP500-20,Howmet Aerospace Inc.
+J,Industrials,SP500-20,Jacobs Solutions Inc.
+TXT,Industrials,SP500-20,Textron Inc.
+AVY,Industrials,SP500-20,Avery Dennison Corporation
+AER,Industrials,SP500-20,AerCap Holdings N.V.
+BAH,Industrials,SP500-20,Booz Allen Hamilton Holding Corporation
+NDSN,Industrials,SP500-20,Nordson Corporation
+HUBB,Industrials,SP500-20,Hubbell Incorporated
+UAL,Industrials,SP500-20,United Airlines Holdings
+CEA,Industrials,SP500-20,China Eastern Airlines Corporation Limited
+POOL,Industrials,SP500-20,Pool Corporation
+UHAL,Industrials,SP500-20,AMERCO
+CSL,Industrials,SP500-20,Carlisle Companies Incorporated
+AXON,Industrials,SP500-20,Axon Enterprise
+SNA,Industrials,SP500-20,Snap-on Incorporated
+SWK,Industrials,SP500-20,Stanley Black & Decker
+TRU,Industrials,SP500-20,TransUnion
+TTC,Industrials,SP500-20,The Toro Company
+ACM,Industrials,SP500-20,AECOM
+GGG,Industrials,SP500-20,Graco Inc.
+MAS,Industrials,SP500-20,Masco Corporation
+CHRW,Industrials,SP500-20,C.H. Robinson Worldwide
+ARMK,Industrials,SP500-20,Aramark
+WSO,Industrials,SP500-20,Watsco
+GFL,Industrials,SP500-20,GFL Environmental Inc.
+AGCO,Industrials,SP500-20,AGCO Corporation
+BLDR,Industrials,SP500-20,Builders FirstSource
+ALLE,Industrials,SP500-20,Allegion plc
+TFII,Industrials,SP500-20,TFI International Inc.
+HII,Industrials,SP500-20,Huntington Ingalls Industries
+LII,Industrials,SP500-20,Lennox International Inc.
+ADT,Industrials,SP500-20,ADT Inc.
+AOS,Industrials,SP500-20,A. O. Smith Corporation
+KNX,Industrials,SP500-20,Knight-Swift Transportation Holdings Inc.
+BZ,Industrials,SP500-20,Kanzhun Limited
+OC,Industrials,SP500-20,Owens Corning
+AAL,Industrials,SP500-20,American Airlines Group Inc.
+LECO,Industrials,SP500-20,Lincoln Electric Holdings
+TTEK,Industrials,SP500-20,Tetra Tech
+RHI,Industrials,SP500-20,Robert Half International Inc.
+RRX,Industrials,SP500-20,Regal Rexnord Corporation
+FBHS,Industrials,SP500-20,Fortune Brands Home & Security
+CAR,Industrials,SP500-20,Avis Budget Group
+PAC,Industrials,SP500-20,Grupo Aeroportuario del Pacífico
+PNR,Industrials,SP500-20,Pentair plc
+MIDD,Industrials,SP500-20,The Middleby Corporation
+ASR,Industrials,SP500-20,Grupo Aeroportuario del Sureste
+ESLT,Industrials,SP500-20,Elbit Systems Ltd.
+WMS,Industrials,SP500-20,Advanced Drainage Systems
+DCI,Industrials,SP500-20,Donaldson Company
+VMI,Industrials,SP500-20,Valmont Industries
+EME,Industrials,SP500-20,EMCOR Group
+KBR,Industrials,SP500-20,KBR
+MTZ,Industrials,SP500-20,MasTec
+DLB,Industrials,SP500-20,Dolby Laboratories
+ITT,Industrials,SP500-20,ITT Inc.
+CAE,Industrials,SP500-20,CAE Inc.
+RBC,Industrials,SP500-20,RBC Bearings Incorporated
+NVT,Industrials,SP500-20,nVent Electric plc
+AMZN,Consumer Discretionary,SP500-25,Amazon.com
+TSLA,Consumer Discretionary,SP500-25,Tesla
+HD,Consumer Discretionary,SP500-25,The Home Depot
+BABA,Consumer Discretionary,SP500-25,Alibaba Group Holding Limited
+MCD,Consumer Discretionary,SP500-25,McDonald's Corporation
+TM,Consumer Discretionary,SP500-25,Toyota Motor Corporation
+NKE,Consumer Discretionary,SP500-25,NIKE
+LOW,Consumer Discretionary,SP500-25,Lowe's Companies
+SBUX,Consumer Discretionary,SP500-25,Starbucks Corporation
+PDD,Consumer Discretionary,SP500-25,Pinduoduo Inc.
+JD,Consumer Discretionary,SP500-25,JD.com
+TJX,Consumer Discretionary,SP500-25,The TJX Companies
+BKNG,Consumer Discretionary,SP500-25,Booking Holdings Inc.
+ABNB,Consumer Discretionary,SP500-25,Airbnb
+F,Consumer Discretionary,SP500-25,Ford Motor Company
+GM,Consumer Discretionary,SP500-25,General Motors Company
+ORLY,Consumer Discretionary,SP500-25,O'Reilly Automotive
+MAR,Consumer Discretionary,SP500-25,Marriott International
+STLA,Consumer Discretionary,SP500-25,Stellantis N.V.
+AZO,Consumer Discretionary,SP500-25,AutoZone
+MELI,Consumer Discretionary,SP500-25,MercadoLibre
+CMG,Consumer Discretionary,SP500-25,Chipotle Mexican Grill
+LULU,Consumer Discretionary,SP500-25,Lululemon Athletica Inc.
+HMC,Consumer Discretionary,SP500-25,Honda Motor Co.
+RACE,Consumer Discretionary,SP500-25,Ferrari N.V.
+ROST,Consumer Discretionary,SP500-25,Ross Stores
+LVS,Consumer Discretionary,SP500-25,Las Vegas Sands Corp.
+HLT,Consumer Discretionary,SP500-25,Hilton Worldwide Holdings Inc.
+YUM,Consumer Discretionary,SP500-25,Yum! Brands
+SE,Consumer Discretionary,SP500-25,Sea Limited
+CPNG,Consumer Discretionary,SP500-25,Coupang
+DHI,Consumer Discretionary,SP500-25,D.R. Horton
+QSR,Consumer Discretionary,SP500-25,Restaurant Brands International Inc.
+CPRT,Consumer Discretionary,SP500-25,Copart
+MBLY,Consumer Discretionary,SP500-25,Mobileye Global Inc.
+APTV,Consumer Discretionary,SP500-25,Aptiv PLC
+LEN,Consumer Discretionary,SP500-25,Lennar Corporation
+GPC,Consumer Discretionary,SP500-25,Genuine Parts Company
+YUMC,Consumer Discretionary,SP500-25,Yum China Holdings
+EBAY,Consumer Discretionary,SP500-25,eBay Inc.
+TSCO,Consumer Discretionary,SP500-25,Tractor Supply Company
+ULTA,Consumer Discretionary,SP500-25,Ulta Beauty
+LI,Consumer Discretionary,SP500-25,Li Auto Inc.
+RIVN,Consumer Discretionary,SP500-25,Rivian Automotive
+NIO,Consumer Discretionary,SP500-25,NIO Inc.
+TCOM,Consumer Discretionary,SP500-25,Trip.com Group Limited
+TTM,Consumer Discretionary,SP500-25,Tata Motors Limited
+ROL,Consumer Discretionary,SP500-25,Rollins
+AMCR,Consumer Discretionary,SP500-25,Amcor plc
+BBY,Consumer Discretionary,SP500-25,Best Buy Co.
+CHWY,Consumer Discretionary,SP500-25,Chewy
+DRI,Consumer Discretionary,SP500-25,Darden Restaurants
+BALL,Consumer Discretionary,SP500-25,Ball Corporation
+MGA,Consumer Discretionary,SP500-25,Magna International Inc.
+ETSY,Consumer Discretionary,SP500-25,Etsy
+NVR,Consumer Discretionary,SP500-25,NVR
+LKQ,Consumer Discretionary,SP500-25,LKQ Corporation
+EXPE,Consumer Discretionary,SP500-25,Expedia Group
+MGM,Consumer Discretionary,SP500-25,MGM Resorts International
+RCL,Consumer Discretionary,SP500-25,Royal Caribbean Cruises Ltd.
+HTHT,Consumer Discretionary,SP500-25,H World Group Limited
+IP,Consumer Discretionary,SP500-25,International Paper Company
+LCID,Consumer Discretionary,SP500-25,Lucid Group
+DPZ,Consumer Discretionary,SP500-25,Domino's Pizza
+BURL,Consumer Discretionary,SP500-25,Burlington Stores
+PKG,Consumer Discretionary,SP500-25,Packaging Corporation of America
+CCL,Consumer Discretionary,SP500-25,Carnival Corporation & plc
+CZR,Consumer Discretionary,SP500-25,Caesars Entertainment
+VFC,Consumer Discretionary,SP500-25,V.F. Corporation
+IHG,Consumer Discretionary,SP500-25,InterContinental Hotels Group PLC
+SCI,Consumer Discretionary,SP500-25,Service Corporation International
+KMX,Consumer Discretionary,SP500-25,CarMax
+PHM,Consumer Discretionary,SP500-25,PulteGroup
+MTN,Consumer Discretionary,SP500-25,Vail Resorts
+CUK,Consumer Discretionary,SP500-25,Carnival Corporation & plc
+H,Consumer Discretionary,SP500-25,Hyatt Hotels Corporation
+DECK,Consumer Discretionary,SP500-25,Deckers Outdoor Corporation
+CCK,Consumer Discretionary,SP500-25,Crown Holdings
+AN,Consumer Discretionary,SP500-25,AutoNation
+FIVE,Consumer Discretionary,SP500-25,Five Below
+WYNN,Consumer Discretionary,SP500-25,Wynn Resorts
+DKS,Consumer Discretionary,SP500-25,DICK'S Sporting Goods
+XPEV,Consumer Discretionary,SP500-25,XPeng Inc.
+BWA,Consumer Discretionary,SP500-25,BorgWarner Inc.
+BBWI,Consumer Discretionary,SP500-25,Bath & Body Works
+WRK,Consumer Discretionary,SP500-25,WestRock Company
+TPR,Consumer Discretionary,SP500-25,Tapestry
+CASY,Consumer Discretionary,SP500-25,Casey's General Stores
+PAG,Consumer Discretionary,SP500-25,Penske Automotive Group
+FND,Consumer Discretionary,SP500-25,Floor & Decor Holdings
+AAP,Consumer Discretionary,SP500-25,Advance Auto Parts
+CHDN,Consumer Discretionary,SP500-25,Churchill Downs Incorporated
+HAS,Consumer Discretionary,SP500-25,Hasbro
+WHR,Consumer Discretionary,SP500-25,Whirlpool Corporation
+VIPS,Consumer Discretionary,SP500-25,Vipshop Holdings Limited
+WSM,Consumer Discretionary,SP500-25,Williams-Sonoma
+LEA,Consumer Discretionary,SP500-25,Lear Corporation
+SEE,Consumer Discretionary,SP500-25,Sealed Air Corporation
+BERY,Consumer Discretionary,SP500-25,Berry Global Group
+CPRI,Consumer Discretionary,SP500-25,Capri Holdings Limited
+RL,Consumer Discretionary,SP500-25,Ralph Lauren Corporation
+ALV,Consumer Discretionary,SP500-25,Autoliv
+PLNT,Consumer Discretionary,SP500-25,Planet Fitness
+GPK,Consumer Discretionary,SP500-25,Graphic Packaging Holding Company
+HOG,Consumer Discretionary,SP500-25,Harley-Davidson
+TXRH,Consumer Discretionary,SP500-25,Texas Roadhouse
+LEVI,Consumer Discretionary,SP500-25,Levi Strauss & Co.
+SKX,Consumer Discretionary,SP500-25,Skechers U.S.A.
+GME,Consumer Discretionary,SP500-25,GameStop Corp.
+REYN,Consumer Discretionary,SP500-25,Reynolds Consumer Products Inc.
+MHK,Consumer Discretionary,SP500-25,Mohawk Industries
+GNTX,Consumer Discretionary,SP500-25,Gentex Corporation
+HRB,Consumer Discretionary,SP500-25,H&R Block
+WH,Consumer Discretionary,SP500-25,Wyndham Hotels & Resorts
+MUSA,Consumer Discretionary,SP500-25,Murphy USA Inc.
+CHH,Consumer Discretionary,SP500-25,Choice Hotels International
+NCLH,Consumer Discretionary,SP500-25,Norwegian Cruise Line Holdings Ltd.
+PII,Consumer Discretionary,SP500-25,Polaris Inc.
+DOOO,Consumer Discretionary,SP500-25,BRP Inc.
+RH,Consumer Discretionary,SP500-25,RH
+BYD,Consumer Discretionary,SP500-25,Boyd Gaming Corporation
+DKNG,Consumer Discretionary,SP500-25,DraftKings Inc.
+MAT,Consumer Discretionary,SP500-25,Mattel
+LNW,Consumer Discretionary,SP500-25,Light & Wonder
+LAD,Consumer Discretionary,SP500-25,Lithia Motors
+SON,Consumer Discretionary,SP500-25,Sonoco Products Company
+CROX,Consumer Discretionary,SP500-25,Crocs
+TPX,Consumer Discretionary,SP500-25,Tempur Sealy International
+SLGN,Consumer Discretionary,SP500-25,Silgan Holdings Inc.
+M,Consumer Discretionary,SP500-25,Macy's
+TOL,Consumer Discretionary,SP500-25,Toll Brothers
+ONON,Consumer Discretionary,SP500-25,On Holding AG
+COLM,Consumer Discretionary,SP500-25,Columbia Sportswear Company
+VAC,Consumer Discretionary,SP500-25,Marriott Vacations Worldwide Corporation
+BROS,Consumer Discretionary,SP500-25,Dutch Bros Inc.
+BC,Consumer Discretionary,SP500-25,Brunswick Corporation
+DDS,Consumer Discretionary,SP500-25,Dillard's
+PENN,Consumer Discretionary,SP500-25,PENN Entertainment
+MLCO,Consumer Discretionary,SP500-25,Melco Resorts & Entertainment Limited
+WMT,Consumer Staples,SP500-30,Walmart Inc.
+PG,Consumer Staples,SP500-30,The Procter & Gamble Company
+KO,Consumer Staples,SP500-30,The Coca-Cola Company
+PEP,Consumer Staples,SP500-30,PepsiCo
+COST,Consumer Staples,SP500-30,Costco Wholesale Corporation
+PM,Consumer Staples,SP500-30,Philip Morris International Inc.
+FMX,Consumer Staples,SP500-30,Fomento Económico Mexicano
+UL,Consumer Staples,SP500-30,Unilever PLC
+BUD,Consumer Staples,SP500-30,Anheuser-Busch InBev SA/NV
+DEO,Consumer Staples,SP500-30,Diageo plc
+MDLZ,Consumer Staples,SP500-30,Mondelez International
+BTI,Consumer Staples,SP500-30,British American Tobacco p.l.c.
+EL,Consumer Staples,SP500-30,The Estée Lauder Companies Inc.
+MO,Consumer Staples,SP500-30,Altria Group
+TGT,Consumer Staples,SP500-30,Target Corporation
+CL,Consumer Staples,SP500-30,Colgate-Palmolive Company
+DG,Consumer Staples,SP500-30,Dollar General Corporation
+MNST,Consumer Staples,SP500-30,Monster Beverage Corporation
+KDP,Consumer Staples,SP500-30,Keurig Dr Pepper Inc.
+GIS,Consumer Staples,SP500-30,General Mills
+ADM,Consumer Staples,SP500-30,Archer-Daniels-Midland Company
+KHC,Consumer Staples,SP500-30,The Kraft Heinz Company
+HSY,Consumer Staples,SP500-30,The Hershey Company
+KMB,Consumer Staples,SP500-30,Kimberly-Clark Corporation
+STZ,Consumer Staples,SP500-30,Constellation Brands
+SYY,Consumer Staples,SP500-30,Sysco Corporation
+BF,Consumer Staples,SP500-30,Brown-Forman Corporation
+DLTR,Consumer Staples,SP500-30,Dollar Tree
+KR,Consumer Staples,SP500-30,The Kroger Co.
+HRL,Consumer Staples,SP500-30,Hormel Foods Corporation
+K,Consumer Staples,SP500-30,Kellogg Company
+CCEP,Consumer Staples,SP500-30,Coca-Cola Europacific Partners PLC
+MKC,Consumer Staples,SP500-30,McCormick & Company
+TSN,Consumer Staples,SP500-30,Tyson Foods
+CHD,Consumer Staples,SP500-30,Church & Dwight Co.
+CAG,Consumer Staples,SP500-30,Conagra Brands
+CLX,Consumer Staples,SP500-30,The Clorox Company
+CPB,Consumer Staples,SP500-30,Campbell Soup Company
+SJM,Consumer Staples,SP500-30,The J. M. Smucker Company
+BG,Consumer Staples,SP500-30,Bunge Limited
+KOF,Consumer Staples,SP500-30,Coca-Cola FEMSA
+TAP,Consumer Staples,SP500-30,Molson Coors Beverage Company
+LW,Consumer Staples,SP500-30,Lamb Weston Holdings
+ACI,Consumer Staples,SP500-30,Albertsons Companies
+DAR,Consumer Staples,SP500-30,Darling Ingredients Inc.
+PFGC,Consumer Staples,SP500-30,Performance Food Group Company
+BJ,Consumer Staples,SP500-30,BJ's Wholesale Club Holdings
+USFD,Consumer Staples,SP500-30,US Foods Holding Corp.
+COTY,Consumer Staples,SP500-30,Coty Inc.
+INGR,Consumer Staples,SP500-30,Ingredion Incorporated
+FLO,Consumer Staples,SP500-30,Flowers Foods
+NWL,Consumer Staples,SP500-30,Newell Brands Inc.
+PPC,Consumer Staples,SP500-30,Pilgrim's Pride Corporation
+EDU,Consumer Staples,SP500-30,New Oriental Education & Technology Group Inc.
+LANC,Consumer Staples,SP500-30,Lancaster Colony Corporation
+POST,Consumer Staples,SP500-30,Post Holdings
+ASAI,Consumer Staples,SP500-30,Sendas Distribuidora S.A.
+COKE,Consumer Staples,SP500-30,Coca-Cola Consolidated
+FIZZ,Consumer Staples,SP500-30,National Beverage Corp.
+SAM,Consumer Staples,SP500-30,The Boston Beer Company
+TAL,Consumer Staples,SP500-30,TAL Education Group
+SFM,Consumer Staples,SP500-30,Sprouts Farmers Market
+CHGG,Consumer Staples,SP500-30,Chegg
+BRBR,Consumer Staples,SP500-30,BellRing Brands
+LOPE,Consumer Staples,SP500-30,Grand Canyon Education
+TR,Consumer Staples,SP500-30,Tootsie Roll Industries
+JJSF,Consumer Staples,SP500-30,J&J Snack Foods Corp.
+IPAR,Consumer Staples,SP500-30,Inter Parfums
+NOMD,Consumer Staples,SP500-30,Nomad Foods Limited
+ELF,Consumer Staples,SP500-30,e.l.f. Beauty
+GHC,Consumer Staples,SP500-30,Graham Holdings Company
+GO,Consumer Staples,SP500-30,Grocery Outlet Holding Corp.
+CALM,Consumer Staples,SP500-30,Cal-Maine Foods
+THS,Consumer Staples,SP500-30,TreeHouse Foods
+MGPI,Consumer Staples,SP500-30,MGP Ingredients
+PRMW,Consumer Staples,SP500-30,Primo Water Corporation
+IBA,Consumer Staples,SP500-30,Industrias Bachoco
+SPB,Consumer Staples,SP500-30,South Pacific Resources Ltd
+DNUT,Consumer Staples,SP500-30,Krispy Kreme
+UNFI,Consumer Staples,SP500-30,United Natural Foods
+HELE,Consumer Staples,SP500-30,Helen of Troy Limited
+WMK,Consumer Staples,SP500-30,Weis Markets
+CCU,Consumer Staples,SP500-30,Compañía Cervecerías Unidas S.A.
+EPC,Consumer Staples,SP500-30,Edgewell Personal Care Company
+NUS,Consumer Staples,SP500-30,Nu Skin Enterprises
+PSMT,Consumer Staples,SP500-30,PriceSmart
+NAPA,Consumer Staples,SP500-30,The Duckhorn Portfolio
+CENTA,Consumer Staples,SP500-30,Central Garden & Pet Company
+CENT,Consumer Staples,SP500-30,Central Garden & Pet Company
+AKO,Consumer Staples,SP500-30,Embotelladora Andina S.A.
+STRA,Consumer Staples,SP500-30,Strategic Education
+COUR,Consumer Staples,SP500-30,Coursera
+IMKTA,Consumer Staples,SP500-30,Ingles Markets
+VGR,Consumer Staples,SP500-30,Vector Group Ltd.
+UDMY,Consumer Staples,SP500-30,Udemy
+ATGE,Consumer Staples,SP500-30,Adtalem Global Education Inc.
+UNH,Health Care,SP500-35,UnitedHealth Group Incorporated
+JNJ,Health Care,SP500-35,Johnson & Johnson
+LLY,Health Care,SP500-35,Eli Lilly and Company
+PFE,Health Care,SP500-35,Pfizer Inc.
+NVO,Health Care,SP500-35,Novo Nordisk A/S
+ABBV,Health Care,SP500-35,AbbVie Inc.
+MRK,Health Care,SP500-35,Merck & Co.
+TMO,Health Care,SP500-35,Thermo Fisher Scientific Inc.
+AZN,Health Care,SP500-35,AstraZeneca PLC
+DHR,Health Care,SP500-35,Danaher Corporation
+NVS,Health Care,SP500-35,Novartis AG
+ABT,Health Care,SP500-35,Abbott Laboratories
+BMY,Health Care,SP500-35,Bristol-Myers Squibb Company
+AMGN,Health Care,SP500-35,Amgen Inc.
+CVS,Health Care,SP500-35,CVS Health Corporation
+ELV,Health Care,SP500-35,Elevance Health Inc.
+SNY,Health Care,SP500-35,Sanofi
+GILD,Health Care,SP500-35,Gilead Sciences
+MDT,Health Care,SP500-35,Medtronic plc
+CI,Health Care,SP500-35,Cigna Corporation
+ISRG,Health Care,SP500-35,Intuitive Surgical
+SYK,Health Care,SP500-35,Stryker Corporation
+MRNA,Health Care,SP500-35,Moderna
+REGN,Health Care,SP500-35,Regeneron Pharmaceuticals
+VRTX,Health Care,SP500-35,Vertex Pharmaceuticals Incorporated
+GSK,Health Care,SP500-35,GSK plc
+ZTS,Health Care,SP500-35,Zoetis Inc.
+BDX,Health Care,SP500-35,Becton
+HCA,Health Care,SP500-35,HCA Healthcare
+BSX,Health Care,SP500-35,Boston Scientific Corporation
+HUM,Health Care,SP500-35,Humana Inc.
+MCK,Health Care,SP500-35,McKesson Corporation
+TAK,Health Care,SP500-35,Takeda Pharmaceutical Company Limited
+EW,Health Care,SP500-35,Edwards Lifesciences Corporation
+CNC,Health Care,SP500-35,Centene Corporation
+DXCM,Health Care,SP500-35,DexCom
+A,Health Care,SP500-35,Agilent Technologies
+BNTX,Health Care,SP500-35,BioNTech SE
+BIIB,Health Care,SP500-35,Biogen Inc.
+IQV,Health Care,SP500-35,IQVIA Holdings Inc.
+HLN,Health Care,SP500-35,Haleon plc
+IDXX,Health Care,SP500-35,IDEXX Laboratories
+WBA,Health Care,SP500-35,Walgreens Boots Alliance
+ALC,Health Care,SP500-35,Alcon Inc.
+MTD,Health Care,SP500-35,Mettler-Toledo International Inc.
+ABC,Health Care,SP500-35,AmerisourceBergen Corporation
+ILMN,Health Care,SP500-35,Illumina
+RMD,Health Care,SP500-35,ResMed Inc.
+GMAB,Health Care,SP500-35,Genmab A/S
+ALNY,Health Care,SP500-35,Alnylam Pharmaceuticals
+VEEV,Health Care,SP500-35,Veeva Systems Inc.
+ZBH,Health Care,SP500-35,Zimmer Biomet Holdings
+BAX,Health Care,SP500-35,Baxter International Inc.
+HZNP,Health Care,SP500-35,Horizon Therapeutics Public Limited Company
+SGEN,Health Care,SP500-35,Seagen Inc.
+BGNE,Health Care,SP500-35,BeiGene
+ARGX,Health Care,SP500-35,argenx SE
+PODD,Health Care,SP500-35,Insulet Corporation
+CAH,Health Care,SP500-35,Cardinal Health
+LH,Health Care,SP500-35,Laboratory Corporation of America Holdings
+WAT,Health Care,SP500-35,Waters Corporation
+MOH,Health Care,SP500-35,Molina Healthcare
+BMRN,Health Care,SP500-35,BioMarin Pharmaceutical Inc.
+STE,Health Care,SP500-35,STERIS plc
+HOLX,Health Care,SP500-35,Hologic
+PKI,Health Care,SP500-35,PerkinElmer
+RPRX,Health Care,SP500-35,Royalty Pharma plc
+INCY,Health Care,SP500-35,Incyte Corporation
+WST,Health Care,SP500-35,West Pharmaceutical Services
+DGX,Health Care,SP500-35,Quest Diagnostics Incorporated
+ABMD,Health Care,SP500-35,Abiomed
+COO,Health Care,SP500-35,The Cooper Companies
+ICLR,Health Care,SP500-35,ICON Public Limited Company
+ALGN,Health Care,SP500-35,Align Technology
+VTRS,Health Care,SP500-35,Viatris Inc.
+TECH,Health Care,SP500-35,Bio-Techne Corporation
+PHG,Health Care,SP500-35,Koninklijke Philips N.V.
+BIO,Health Care,SP500-35,Bio-Rad Laboratories
+UTHR,Health Care,SP500-35,United Therapeutics Corporation
+SNN,Health Care,SP500-35,Smith & Nephew plc
+TFX,Health Care,SP500-35,Teleflex Incorporated
+QGEN,Health Care,SP500-35,Qiagen N.V.
+NBIX,Health Care,SP500-35,Neurocrine Biosciences
+HSIC,Health Care,SP500-35,Henry Schein
+SRPT,Health Care,SP500-35,Sarepta Therapeutics
+CRL,Health Care,SP500-35,Charles River Laboratories International
+TEVA,Health Care,SP500-35,Teva Pharmaceutical Industries Limited
+RGEN,Health Care,SP500-35,Repligen Corporation
+BRKR,Health Care,SP500-35,Bruker Corporation
+FMS,Health Care,SP500-35,Fresenius Medical Care AG & Co. KGaA
+JAZZ,Health Care,SP500-35,Jazz Pharmaceuticals plc
+UHS,Health Care,SP500-35,Universal Health Services
+RDY,Health Care,SP500-35,Dr. Reddy's Laboratories Limited
+PEN,Health Care,SP500-35,Penumbra
+LEGN,Health Care,SP500-35,Legend Biotech Corporation
+CTLT,Health Care,SP500-35,Catalent
+SGFY,Health Care,SP500-35,Signify Health
+NVCR,Health Care,SP500-35,NovoCure Limited
+HALO,Health Care,SP500-35,Halozyme Therapeutics
+SWAV,Health Care,SP500-35,ShockWave Medical
+ACHC,Health Care,SP500-35,Acadia Healthcare Company
+MASI,Health Care,SP500-35,Masimo Corporation
+CHE,Health Care,SP500-35,Chemed Corporation
+GMED,Health Care,SP500-35,Globus Medical
+INSP,Health Care,SP500-35,Inspire Medical Systems
+OGN,Health Care,SP500-35,Organon & Co.
+AGL,Health Care,SP500-35,agilon health
+ATR,Health Care,SP500-35,AptarGroup
+DOCS,Health Care,SP500-35,Doximity
+ASND,Health Care,SP500-35,Ascendis Pharma A/S
+GRFS,Health Care,SP500-35,Grifols
+XRAY,Health Care,SP500-35,DENTSPLY SIRONA Inc.
+DVA,Health Care,SP500-35,DaVita Inc.
+MEDP,Health Care,SP500-35,Medpace Holdings
+ELAN,Health Care,SP500-35,Elanco Animal Health Incorporated
+APLS,Health Care,SP500-35,Apellis Pharmaceuticals
+EHC,Health Care,SP500-35,Encompass Health Corporation
+OPCH,Health Care,SP500-35,Option Care Health
+QDEL,Health Care,SP500-35,QuidelOrtho Corporation
+BLCO,Health Care,SP500-35,Bausch + Lomb Corporation
+NVST,Health Care,SP500-35,Envista Holdings Corporation
+OSH,Health Care,SP500-35,Oak Street Health
+IONS,Health Care,SP500-35,Ionis Pharmaceuticals
+ENSG,Health Care,SP500-35,The Ensign Group
+HQY,Health Care,SP500-35,HealthEquity
+EXEL,Health Care,SP500-35,Exelixis
+LHCG,Health Care,SP500-35,LHC Group
+ITCI,Health Care,SP500-35,Intra-Cellular Therapies
+THC,Health Care,SP500-35,Tenet Healthcare Corporation
+IART,Health Care,SP500-35,Integra LifeSciences Holdings Corporation
+AMN,Health Care,SP500-35,AMN Healthcare Services
+RCM,Health Care,SP500-35,R1 RCM Inc.
+STVN,Health Care,SP500-35,Stevanato Group S.p.A.
+TDOC,Health Care,SP500-35,Teladoc Health
+AZTA,Health Care,SP500-35,Azenta
+RXDX,Health Care,SP500-35,Prometheus Biosciences
+PRGO,Health Care,SP500-35,Perrigo Company plc
+NTRA,Health Care,SP500-35,Natera
+DNLI,Health Care,SP500-35,Denali Therapeutics Inc.
+MMSI,Health Care,SP500-35,Merit Medical Systems
+GH,Health Care,SP500-35,Guardant Health
+ALKS,Health Care,SP500-35,Alkermes plc
+HAE,Health Care,SP500-35,Haemonetics Corporation
+TXG,Health Care,SP500-35,10x Genomics
+PINC,Health Care,SP500-35,Premier
+CYTK,Health Care,SP500-35,Cytokinetics
+ICUI,Health Care,SP500-35,ICU Medical
+MRVI,Health Care,SP500-35,Maravai LifeSciences Holdings
+NARI,Health Care,SP500-35,Inari Medical
+ARWR,Health Care,SP500-35,Arrowhead Pharmaceuticals
+BRK,Financials,SP500-40,Berkshire Hathaway Inc.
+V,Financials,SP500-40,Visa Inc.
+JPM,Financials,SP500-40,JPMorgan Chase & Co.
+MA,Financials,SP500-40,Mastercard Incorporated
+BAC,Financials,SP500-40,Bank of America Corporation
+BML,Financials,SP500-40,Bank of America Corporation
+WFC,Financials,SP500-40,Wells Fargo & Company
+C,Financials,SP500-40,Citigroup Inc.
+MS,Financials,SP500-40,Morgan Stanley
+SCHW,Financials,SP500-40,The Charles Schwab Corporation
+GS,Financials,SP500-40,The Goldman Sachs Group
+RY,Financials,SP500-40,Royal Bank of Canada
+HDB,Financials,SP500-40,HDFC Bank Limited
+HSBC,Financials,SP500-40,HSBC Holdings plc
+TD,Financials,SP500-40,The Toronto-Dominion Bank
+AXP,Financials,SP500-40,American Express Company
+SPGI,Financials,SP500-40,S&P Global Inc.
+BLK,Financials,SP500-40,BlackRock
+BX,Financials,SP500-40,Blackstone Inc.
+CB,Financials,SP500-40,Chubb Limited
+MMC,Financials,SP500-40,Marsh & McLennan Companies
+PYPL,Financials,SP500-40,PayPal Holdings
+USB,Financials,SP500-40,U.S. Bancorp
+IBN,Financials,SP500-40,ICICI Bank Limited
+PGR,Financials,SP500-40,The Progressive Corporation
+MUFG,Financials,SP500-40,Mitsubishi UFJ Financial Group
+UBS,Financials,SP500-40,UBS Group AG
+AON,Financials,SP500-40,Aon plc
+CME,Financials,SP500-40,CME Group Inc.
+PNC,Financials,SP500-40,The PNC Financial Services Group
+BNS,Financials,SP500-40,The Bank of Nova Scotia
+ICE,Financials,SP500-40,Intercontinental Exchange
+BMO,Financials,SP500-40,Bank of Montreal
+MET,Financials,SP500-40,MetLife
+TFC,Financials,SP500-40,Truist Financial Corporation
+KKR,Financials,SP500-40,KKR & Co. Inc.
+MCO,Financials,SP500-40,Moody's Corporation
+BAM,Financials,SP500-40,Brookfield Asset Management Ltd
+AIG,Financials,SP500-40,American International Group
+SMFG,Financials,SP500-40,Sumitomo Mitsui Financial Group
+ING,Financials,SP500-40,ING Groep N.V.
+AFL,Financials,SP500-40,Aflac Incorporated
+TRV,Financials,SP500-40,The Travelers Companies
+AJG,Financials,SP500-40,Arthur J. Gallagher & Co.
+MSCI,Financials,SP500-40,MSCI Inc.
+APO,Financials,SP500-40,Apollo Global Management
+PRU,Financials,SP500-40,Prudential Financial
+PUK,Financials,SP500-40,Prudential plc
+COF,Financials,SP500-40,Capital One Financial Corporation
+BK,Financials,SP500-40,The Bank of New York Mellon Corporation
+BBVA,Financials,SP500-40,Banco Bilbao Vizcaya Argentaria
+AMP,Financials,SP500-40,Ameriprise Financial
+ALL,Financials,SP500-40,The Allstate Corporation
+MFC,Financials,SP500-40,Manulife Financial Corporation
+BCS,Financials,SP500-40,Barclays PLC
+NDAQ,Financials,SP500-40,Nasdaq
+NWG,Financials,SP500-40,NatWest Group plc
+STT,Financials,SP500-40,State Street Corporation
+IBKR,Financials,SP500-40,Interactive Brokers Group
+DFS,Financials,SP500-40,Discover Financial Services
+SLF,Financials,SP500-40,Sun Life Financial Inc.
+TROW,Financials,SP500-40,T. Rowe Price Group
+WTW,Financials,SP500-40,Willis Towers Watson Public Limited Company
+MTB,Financials,SP500-40,M&T Bank Corporation
+HIG,Financials,SP500-40,The Hartford Financial Services Group
+RJF,Financials,SP500-40,Raymond James Financial
+FRC,Financials,SP500-40,First Republic Bank
+FITB,Financials,SP500-40,Fifth Third Bancorp
+ACGL,Financials,SP500-40,Arch Capital Group Ltd.
+PFG,Financials,SP500-40,Principal Financial Group
+DB,Financials,SP500-40,Deutsche Bank Aktiengesellschaft
+ARES,Financials,SP500-40,Ares Management Corporation
+HBAN,Financials,SP500-40,Huntington Bancshares Incorporated
+RF,Financials,SP500-40,Regions Financial Corporation
+CFG,Financials,SP500-40,Citizens Financial Group
+WRB,Financials,SP500-40,W. R. Berkley Corporation
+IX,Financials,SP500-40,ORIX Corporation
+NTRS,Financials,SP500-40,Northern Trust Corporation
+CM,Financials,SP500-40,Canadian Imperial Bank of Commerce
+KEY,Financials,SP500-40,KeyCorp
+FITBI,Financials,SP500-40,Fifth Third Bancorp
+MKL,Financials,SP500-40,Markel Corporation
+FDS,Financials,SP500-40,FactSet Research Systems Inc.
+CINF,Financials,SP500-40,Cincinnati Financial Corporation
+LPLA,Financials,SP500-40,LPL Financial Holdings Inc.
+BRO,Financials,SP500-40,Brown & Brown
+RKT,Financials,SP500-40,Rocket Companies
+OWL,Financials,SP500-40,Blue Owl Capital Inc.
+SYF,Financials,SP500-40,Synchrony Financial
+KB,Financials,SP500-40,KB Financial Group Inc.
+TW,Financials,SP500-40,Tradeweb Markets Inc.
+SHG,Financials,SP500-40,Shinhan Financial Group Co.
+ERIE,Financials,SP500-40,Erie Indemnity Company
+BEN,Financials,SP500-40,Franklin Resources
+SIVB,Financials,SP500-40,SVB Financial Group
+L,Financials,SP500-40,Loews Corporation
+CRBG,Financials,SP500-40,Corebridge Financial
+FHN,Financials,SP500-40,First Horizon Corporation
+RE,Financials,SP500-40,Everest Re Group
+ACGLO,Financials,SP500-40,Arch Capital Group Ltd.
+AFG,Financials,SP500-40,American Financial Group
+GL,Financials,SP500-40,Globe Life Inc.
+EQH,Financials,SP500-40,Equitable Holdings
+CNA,Financials,SP500-40,CNA Financial Corporation
+CG,Financials,SP500-40,The Carlyle Group Inc.
+BAP,Financials,SP500-40,Credicorp Ltd.
+MKTX,Financials,SP500-40,MarketAxess Holdings Inc.
+ALLY,Financials,SP500-40,Ally Financial Inc.
+FCNCA,Financials,SP500-40,First Citizens BancShares
+RYAN,Financials,SP500-40,Ryan Specialty Holdings
+FNF,Financials,SP500-40,Fidelity National Financial
+TPG,Financials,SP500-40,TPG Inc.
+MORN,Financials,SP500-40,Morningstar
+BCH,Financials,SP500-40,Banco de Chile
+RGA,Financials,SP500-40,Reinsurance Group of America
+EWBC,Financials,SP500-40,East West Bancorp
+IVZ,Financials,SP500-40,Invesco Ltd.
+CMA,Financials,SP500-40,Comerica Incorporated
+JEF,Financials,SP500-40,Jefferies Financial Group Inc.
+CFR,Financials,SP500-40,Cullen/Frost Bankers
+CBSH,Financials,SP500-40,Commerce Bancshares
+XP,Financials,SP500-40,XP Inc.
+SEIC,Financials,SP500-40,SEI Investments Company
+BSMX,Financials,SP500-40,Banco Santander México
+ltiple,Financials,SP500-40, Grupo Financiero Santander México
+UNM,Financials,SP500-40,Unum Group
+WBS,Financials,SP500-40,Webster Financial Corporation
+RNR,Financials,SP500-40,RenaissanceRe Holdings Ltd.
+SBNY,Financials,SP500-40,Signature Bank
+BSAC,Financials,SP500-40,Banco Santander-Chile
+ORI,Financials,SP500-40,Old Republic International Corporation
+ATH,Financials,SP500-40,Athene Holding Ltd.
+ZION,Financials,SP500-40,Zions Bancorporation
+WF,Financials,SP500-40,Woori Financial Group Inc.
+VOYA,Financials,SP500-40,Voya Financial
+AIZ,Financials,SP500-40,Assurant
+CIB,Financials,SP500-40,Bancolombia S.A.
+BOKF,Financials,SP500-40,BOK Financial Corporation
+WAL,Financials,SP500-40,Western Alliance Bancorporation
+KNSL,Financials,SP500-40,Kinsale Capital Group
+HLI,Financials,SP500-40,Houlihan Lokey
+SF,Financials,SP500-40,Stifel Financial Corp.
+PB,Financials,SP500-40,Prosperity Bancshares
+OAK,Financials,SP500-40,Oaktree Capital Group
+NYCB,Financials,SP500-40,New York Community Bancorp
+AMG,Financials,SP500-40,Affiliated Managers Group
+CACC,Financials,SP500-40,Credit Acceptance Corporation
+RLI,Financials,SP500-40,RLI Corp.
+GBCI,Financials,SP500-40,Glacier Bancorp
+SSB,Financials,SP500-40,SouthState Corporation
+DNB,Financials,SP500-40,Dun & Bradstreet Holdings
+VLY,Financials,SP500-40,Valley National Bancorp
+FAF,Financials,SP500-40,First American Financial Corporation
+AAPL,Information Technology,SP500-45,Apple Inc.
+MSFT,Information Technology,SP500-45,Microsoft Corporation
+NVDA,Information Technology,SP500-45,NVIDIA Corporation
+TSM,Information Technology,SP500-45,Taiwan Semiconductor Manufacturing Company Limited
+ASML,Information Technology,SP500-45,ASML Holding N.V.
+AVGO,Information Technology,SP500-45,Broadcom Inc.
+ORCL,Information Technology,SP500-45,Oracle Corporation
+CSCO,Information Technology,SP500-45,Cisco Systems
+ACN,Information Technology,SP500-45,Accenture plc
+TXN,Information Technology,SP500-45,Texas Instruments Incorporated
+ADBE,Information Technology,SP500-45,Adobe Inc.
+QCOM,Information Technology,SP500-45,QUALCOMM Incorporated
+CRM,Information Technology,SP500-45,Salesforce
+IBM,Information Technology,SP500-45,International Business Machines Corporation
+SAP,Information Technology,SP500-45,SAP SE
+INTU,Information Technology,SP500-45,Intuit Inc.
+INTC,Information Technology,SP500-45,Intel Corporation
+AMD,Information Technology,SP500-45,Advanced Micro Devices
+SONY,Information Technology,SP500-45,Sony Group Corporation
+AMAT,Information Technology,SP500-45,Applied Materials
+ADI,Information Technology,SP500-45,Analog Devices
+NOW,Information Technology,SP500-45,ServiceNow
+INFY,Information Technology,SP500-45,Infosys Limited
+FISV,Information Technology,SP500-45,Fiserv
+LRCX,Information Technology,SP500-45,Lam Research Corporation
+MU,Information Technology,SP500-45,Micron Technology
+KLAC,Information Technology,SP500-45,KLA Corporation
+UBER,Information Technology,SP500-45,Uber Technologies
+VMW,Information Technology,SP500-45,VMware
+SNPS,Information Technology,SP500-45,Synopsys
+SHOP,Information Technology,SP500-45,Shopify Inc.
+APH,Information Technology,SP500-45,Amphenol Corporation
+PANW,Information Technology,SP500-45,Palo Alto Networks
+SNOW,Information Technology,SP500-45,Snowflake Inc.
+CDNS,Information Technology,SP500-45,Cadence Design Systems
+WDAY,Information Technology,SP500-45,Workday
+MSI,Information Technology,SP500-45,Motorola Solutions
+NXPI,Information Technology,SP500-45,NXP Semiconductors N.V.
+ADSK,Information Technology,SP500-45,Autodesk
+FIS,Information Technology,SP500-45,Fidelity National Information Services
+FTNT,Information Technology,SP500-45,Fortinet
+SQ,Information Technology,SP500-45,Block
+MCHP,Information Technology,SP500-45,Microchip Technology Incorporated
+ANET,Information Technology,SP500-45,Arista Networks
+TEL,Information Technology,SP500-45,TE Connectivity Ltd.
+TEAM,Information Technology,SP500-45,Atlassian Corporation
+MRVL,Information Technology,SP500-45,Marvell Technology
+GFS,Information Technology,SP500-45,GLOBALFOUNDRIES Inc.
+STM,Information Technology,SP500-45,STMicroelectronics N.V.
+KEYS,Information Technology,SP500-45,Keysight Technologies
+DELL,Information Technology,SP500-45,Dell Technologies Inc.
+CTSH,Information Technology,SP500-45,Cognizant Technology Solutions Corporation
+ON,Information Technology,SP500-45,ON Semiconductor Corporation
+GLW,Information Technology,SP500-45,Corning Incorporated
+HPQ,Information Technology,SP500-45,HP Inc.
+NOK,Information Technology,SP500-45,Nokia Oyj
+IT,Information Technology,SP500-45,Gartner
+CRWD,Information Technology,SP500-45,CrowdStrike Holdings
+CDW,Information Technology,SP500-45,CDW Corporation
+DDOG,Information Technology,SP500-45,Datadog
+FTV,Information Technology,SP500-45,Fortive Corporation
+CAJ,Information Technology,SP500-45,Canon Inc.
+ANSS,Information Technology,SP500-45,ANSYS
+ERIC,Information Technology,SP500-45,Telefonaktiebolaget LM Ericsson (publ)
+ZM,Information Technology,SP500-45,Zoom Video Communications
+VRSN,Information Technology,SP500-45,VeriSign
+GIB,Information Technology,SP500-45,CGI Inc.
+HPE,Information Technology,SP500-45,Hewlett Packard Enterprise Company
+EPAM,Information Technology,SP500-45,EPAM Systems
+PAYC,Information Technology,SP500-45,Paycom Software
+TDY,Information Technology,SP500-45,Teledyne Technologies Incorporated
+SEDG,Information Technology,SP500-45,SolarEdge Technologies
+MPWR,Information Technology,SP500-45,Monolithic Power Systems
+GRMN,Information Technology,SP500-45,Garmin Ltd.
+UMC,Information Technology,SP500-45,United Microelectronics Corporation
+ZS,Information Technology,SP500-45,Zscaler
+UI,Information Technology,SP500-45,Ubiquiti Inc.
+NET,Information Technology,SP500-45,Cloudflare
+FSLR,Information Technology,SP500-45,First Solar
+BR,Information Technology,SP500-45,Broadridge Financial Solutions
+CHKP,Information Technology,SP500-45,Check Point Software Technologies Ltd.
+SWKS,Information Technology,SP500-45,Skyworks Solutions
+PLTR,Information Technology,SP500-45,Palantir Technologies Inc.
+FICO,Information Technology,SP500-45,Fair Isaac Corporation
+HUBS,Information Technology,SP500-45,HubSpot
+SPLK,Information Technology,SP500-45,Splunk Inc.
+PTC,Information Technology,SP500-45,PTC Inc.
+TER,Information Technology,SP500-45,Teradyne
+LDOS,Information Technology,SP500-45,Leidos Holdings
+ASX,Information Technology,SP500-45,ASE Technology Holding Co.
+TYL,Information Technology,SP500-45,Tyler Technologies
+FLT,Information Technology,SP500-45,FLEETCOR Technologies
+AKAM,Information Technology,SP500-45,Akamai Technologies
+AZPN,Information Technology,SP500-45,Aspen Technology
+NTAP,Information Technology,SP500-45,NetApp
+ZBRA,Information Technology,SP500-45,Zebra Technologies Corporation
+TRMB,Information Technology,SP500-45,Trimble Inc.
+U,Information Technology,SP500-45,Unity Software Inc.
+SSNC,Information Technology,SP500-45,SS&C Technologies Holdings
+JKHY,Information Technology,SP500-45,Jack Henry & Associates
+NICE,Information Technology,SP500-45,NICE Ltd.
+BILL,Information Technology,SP500-45,Bill.com Holdings
+ZI,Information Technology,SP500-45,ZoomInfo Technologies Inc.
+DOCU,Information Technology,SP500-45,DocuSign
+GDDY,Information Technology,SP500-45,GoDaddy Inc.
+PCTY,Information Technology,SP500-45,Paylocity Holding Corporation
+DT,Information Technology,SP500-45,Dynatrace
+STX,Information Technology,SP500-45,Seagate Technology Holdings plc
+WDC,Information Technology,SP500-45,Western Digital Corporation
+BSY,Information Technology,SP500-45,Bentley Systems
+OKTA,Information Technology,SP500-45,Okta
+ENTG,Information Technology,SP500-45,Entegris
+DOX,Information Technology,SP500-45,Amdocs Limited
+JNPR,Information Technology,SP500-45,Juniper Networks
+CDAY,Information Technology,SP500-45,Ceridian HCM Holding Inc.
+COIN,Information Technology,SP500-45,Coinbase Global
+FLEX,Information Technology,SP500-45,Flex Ltd.
+TOST,Information Technology,SP500-45,Toast
+QRVO,Information Technology,SP500-45,Qorvo
+WOLF,Information Technology,SP500-45,Wolfspeed
+LSCC,Information Technology,SP500-45,Lattice Semiconductor Corporation
+LOGI,Information Technology,SP500-45,Logitech International S.A.
+JBL,Information Technology,SP500-45,Jabil Inc.
+SNX,Information Technology,SP500-45,TD SYNNEX Corporation
+BKI,Information Technology,SP500-45,Black Knight
+YMM,Information Technology,SP500-45,Full Truck Alliance Co. Ltd.
+FFIV,Information Technology,SP500-45,F5
+PSTG,Information Technology,SP500-45,Pure Storage
+CGNX,Information Technology,SP500-45,Cognex Corporation
+PSFE,Information Technology,SP500-45,Paysafe Limited
+DBX,Information Technology,SP500-45,Dropbox
+G,Information Technology,SP500-45,Genpact Limited
+OTEX,Information Technology,SP500-45,Open Text Corporation
+MANH,Information Technology,SP500-45,Manhattan Associates
+HOOD,Information Technology,SP500-45,Robinhood Markets
+NTNX,Information Technology,SP500-45,Nutanix
+CIEN,Information Technology,SP500-45,Ciena Corporation
+GLOB,Information Technology,SP500-45,Globant S.A.
+GTLB,Information Technology,SP500-45,GitLab Inc.
+PATH,Information Technology,SP500-45,UiPath Inc.
+GOOG,Telecommunication Service,SP500-50,Alphabet Inc.
+GOOGL,Telecommunication Service,SP500-50,Alphabet Inc.
+META,Telecommunication Service,SP500-50,Meta Platforms
+TMUS,Telecommunication Service,SP500-50,T-Mobile US
+DIS,Telecommunication Service,SP500-50,The Walt Disney Company
+VZ,Telecommunication Service,SP500-50,Verizon Communications Inc.
+CMCSA,Telecommunication Service,SP500-50,Comcast Corporation
+NFLX,Telecommunication Service,SP500-50,Netflix
+T,Telecommunication Service,SP500-50,AT&T Inc.
+ATVI,Telecommunication Service,SP500-50,Activision Blizzard
+AMX,Telecommunication Service,SP500-50,América Móvil
+AMOV,Telecommunication Service,SP500-50,América Móvil
+RELX,Telecommunication Service,SP500-50,RELX PLC
+CHTR,Telecommunication Service,SP500-50,Charter Communications
+NTES,Telecommunication Service,SP500-50,NetEase
+BCE,Telecommunication Service,SP500-50,BCE Inc.
+BIDU,Telecommunication Service,SP500-50,Baidu
+EA,Telecommunication Service,SP500-50,Electronic Arts Inc.
+TU,Telecommunication Service,SP500-50,TELUS Corporation
+VOD,Telecommunication Service,SP500-50,Vodafone Group Public Limited Company
+CHT,Telecommunication Service,SP500-50,Chunghwa Telecom Co.
+WBD,Telecommunication Service,SP500-50,Warner Bros. Discovery
+ORAN,Telecommunication Service,SP500-50,Orange S.A.
+SIRI,Telecommunication Service,SP500-50,Sirius XM Holdings Inc.
+TLK,Telecommunication Service,SP500-50,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk
+RCI,Telecommunication Service,SP500-50,Rogers Communications Inc.
+DASH,Telecommunication Service,SP500-50,DoorDash
+RBLX,Telecommunication Service,SP500-50,Roblox Corporation
+PINS,Telecommunication Service,SP500-50,Pinterest
+TTWO,Telecommunication Service,SP500-50,Take-Two Interactive Software
+WMG,Telecommunication Service,SP500-50,Warner Music Group Corp.
+LYV,Telecommunication Service,SP500-50,Live Nation Entertainment
+FOXA,Telecommunication Service,SP500-50,Fox Corporation
+FOX,Telecommunication Service,SP500-50,Fox Corporation
+OMC,Telecommunication Service,SP500-50,Omnicom Group Inc.
+SNAP,Telecommunication Service,SP500-50,Snap Inc.
+SPOT,Telecommunication Service,SP500-50,Spotify Technology S.A.
+FWONA,Telecommunication Service,SP500-50,Formula One Group
+FWONK,Telecommunication Service,SP500-50,Formula One Group
+TME,Telecommunication Service,SP500-50,Tencent Music Entertainment Group
+LSXMA,Telecommunication Service,SP500-50,The Liberty SiriusXM Group
+LSXMK,Telecommunication Service,SP500-50,The Liberty SiriusXM Group
+SJR,Telecommunication Service,SP500-50,Shaw Communications Inc.
+IPG,Telecommunication Service,SP500-50,The Interpublic Group of Companies
+PARAA,Telecommunication Service,SP500-50,Paramount Global
+PARA,Telecommunication Service,SP500-50,Paramount Global
+MTCH,Telecommunication Service,SP500-50,Match Group
+LBRDA,Telecommunication Service,SP500-50,Liberty Broadband Corporation
+LBRDK,Telecommunication Service,SP500-50,Liberty Broadband Corporation
+VIV,Telecommunication Service,SP500-50,Telefônica Brasil S.A.
+WPP,Telecommunication Service,SP500-50,WPP plc
+NWS,Telecommunication Service,SP500-50,News Corporation
+NWSA,Telecommunication Service,SP500-50,News Corporation
+TWLO,Telecommunication Service,SP500-50,Twilio Inc.
+BILI,Telecommunication Service,SP500-50,Bilibili Inc.
+ZG,Telecommunication Service,SP500-50,Zillow Group
+Z,Telecommunication Service,SP500-50,Zillow Group
+LBTYA,Telecommunication Service,SP500-50,Liberty Global plc
+LBTYK,Telecommunication Service,SP500-50,Liberty Global plc
+LBTYB,Telecommunication Service,SP500-50,Liberty Global plc
+DISH,Telecommunication Service,SP500-50,DISH Network Corporation
+SKM,Telecommunication Service,SP500-50,SK Telecom Co.
+PSO,Telecommunication Service,SP500-50,Pearson plc
+KT,Telecommunication Service,SP500-50,KT Corporation
+ROKU,Telecommunication Service,SP500-50,Roku
+NXST,Telecommunication Service,SP500-50,Nexstar Media Group
+YNDX,Telecommunication Service,SP500-50,Yandex N.V.
+IRDM,Telecommunication Service,SP500-50,Iridium Communications Inc.
+EDR,Telecommunication Service,SP500-50,Endeavor Group Holdings
+PHI,Telecommunication Service,SP500-50,PLDT Inc.
+FYBR,Telecommunication Service,SP500-50,Frontier Communications Parent
+LUMN,Telecommunication Service,SP500-50,Lumen Technologies
+NYT,Telecommunication Service,SP500-50,The New York Times Company
+TIMB,Telecommunication Service,SP500-50,TIM S.A.
+WWE,Telecommunication Service,SP500-50,World Wrestling Entertainment
+WB,Telecommunication Service,SP500-50,Weibo Corporation
+TGNA,Telecommunication Service,SP500-50,TEGNA Inc.
+CABO,Telecommunication Service,SP500-50,Cable One
+IAC,Telecommunication Service,SP500-50,IAC Inc.
+ZD,Telecommunication Service,SP500-50,Ziff Davis
+ATHM,Telecommunication Service,SP500-50,Autohome Inc.
+MSGS,Telecommunication Service,SP500-50,Madison Square Garden Sports Corp.
+STGW,Telecommunication Service,SP500-50,Stagwell Inc.
+MANU,Telecommunication Service,SP500-50,Manchester United plc
+PLTK,Telecommunication Service,SP500-50,Playtika Holding Corp.
+TV,Telecommunication Service,SP500-50,Grupo Televisa
+AMC,Telecommunication Service,SP500-50,AMC Entertainment Holdings
+CCOI,Telecommunication Service,SP500-50,Cogent Communications Holdings
+YY,Telecommunication Service,SP500-50,JOYY Inc.
+TIGO,Telecommunication Service,SP500-50,Millicom International Cellular S.A.
+WLY,Telecommunication Service,SP500-50,John Wiley & Sons
+WLYB,Telecommunication Service,SP500-50,John Wiley & Sons
+IHS,Telecommunication Service,SP500-50,IHS Holding Limited
+BOWL,Telecommunication Service,SP500-50,Bowlero Corp.
+GOGO,Telecommunication Service,SP500-50,Gogo Inc.
+YELP,Telecommunication Service,SP500-50,Yelp Inc.
+SSTK,Telecommunication Service,SP500-50,Shutterstock
+USM,Telecommunication Service,SP500-50,United States Cellular Corporation
+BATRK,Telecommunication Service,SP500-50,The Liberty Braves Group
+BATRA,Telecommunication Service,SP500-50,The Liberty Braves Group
+NEE,Utilities,SP500-55,NextEra Energy
+DUK,Utilities,SP500-55,Duke Energy Corporation
+SO,Utilities,SP500-55,The Southern Company
+SRE,Utilities,SP500-55,Sempra
+AEP,Utilities,SP500-55,American Electric Power Company
+D,Utilities,SP500-55,Dominion Energy
+NGG,Utilities,SP500-55,National Grid plc
+EXC,Utilities,SP500-55,Exelon Corporation
+XEL,Utilities,SP500-55,Xcel Energy Inc.
+ED,Utilities,SP500-55,Consolidated Edison
+PCG,Utilities,SP500-55,PG&E Corporation
+WEC,Utilities,SP500-55,WEC Energy Group
+PEG,Utilities,SP500-55,Public Service Enterprise Group Incorporated
+ES,Utilities,SP500-55,Eversource Energy
+CEG,Utilities,SP500-55,Constellation Energy Corporation
+AWK,Utilities,SP500-55,American Water Works Company
+EIX,Utilities,SP500-55,Edison International
+ETR,Utilities,SP500-55,Entergy Corporation
+FE,Utilities,SP500-55,FirstEnergy Corp.
+AEE,Utilities,SP500-55,Ameren Corporation
+DTE,Utilities,SP500-55,DTE Energy Company
+PPL,Utilities,SP500-55,PPL Corporation
+FTS,Utilities,SP500-55,Fortis Inc.
+CNP,Utilities,SP500-55,CenterPoint Energy
+AES,Utilities,SP500-55,The AES Corporation
+EBR,Utilities,SP500-55,Centrais Elétricas Brasileiras S.A. - Eletrobrás
+CMS,Utilities,SP500-55,CMS Energy Corporation
+BEP,Utilities,SP500-55,Brookfield Renewable Partners L.P.
+ELP,Utilities,SP500-55,Companhia Paranaense de Energia - COPEL
+NMK,Utilities,SP500-55,Niagara Mohawk Power Corporation PFD 3.90%
+AGR,Utilities,SP500-55,Avangrid
+ATO,Utilities,SP500-55,Atmos Energy Corporation
+BIP,Utilities,SP500-55,Brookfield Infrastructure Partners L.P.
+EVRG,Utilities,SP500-55,Evergy
+LNT,Utilities,SP500-55,Alliant Energy Corporation
+WTRG,Utilities,SP500-55,Essential Utilities
+NI,Utilities,SP500-55,NiSource Inc.
+KEP,Utilities,SP500-55,Korea Electric Power Corporation
+NFE,Utilities,SP500-55,New Fortress Energy Inc.
+VST,Utilities,SP500-55,Vistra Corp.
+PNW,Utilities,SP500-55,Pinnacle West Capital Corporation
+UGI,Utilities,SP500-55,UGI Corporation
+OGE,Utilities,SP500-55,OGE Energy Corp.
+CMS,Utilities,SP500-55,Consumers Energy Company
+NRG,Utilities,SP500-55,NRG Energy
+SBS,Utilities,SP500-55,Companhia de Saneamento Básico do Estado de São Paulo - SABESP
+CWEN,Utilities,SP500-55,Clearway Energy
+NEP,Utilities,SP500-55,NextEra Energy Partners
+BEPC,Utilities,SP500-55,Brookfield Renewable Corporation
+IDA,Utilities,SP500-55,IDACORP
+ORA,Utilities,SP500-55,Ormat Technologies
+POR,Utilities,SP500-55,Portland General Electric Company
+AQN,Utilities,SP500-55,Algonquin Power & Utilities Corp.
+BIPC,Utilities,SP500-55,Brookfield Infrastructure Corporation
+SWX,Utilities,SP500-55,Southwest Gas Holdings
+NJR,Utilities,SP500-55,New Jersey Resources Corporation
+BKH,Utilities,SP500-55,Black Hills Corporation
+HE,Utilities,SP500-55,Hawaiian Electric Industries
+OGS,Utilities,SP500-55,ONE Gas
+SJI,Utilities,SP500-55,South Jersey Industries
+PNM,Utilities,SP500-55,PNM Resources
+SR,Utilities,SP500-55,Spire Inc.
+ALE,Utilities,SP500-55,ALLETE
+AWR,Utilities,SP500-55,American States Water Company
+CWT,Utilities,SP500-55,California Water Service Group
+NWE,Utilities,SP500-55,NorthWestern Corporation
+AVA,Utilities,SP500-55,Avista Corporation
+AY,Utilities,SP500-55,Atlantica Sustainable Infrastructure plc
+LFG,Utilities,SP500-55,Archaea Energy Inc.
+EE,Utilities,SP500-55,Excelerate Energy
+MGEE,Utilities,SP500-55,MGE Energy
+TAC,Utilities,SP500-55,TransAlta Corporation
+FLNC,Utilities,SP500-55,Fluence Energy
+OTTR,Utilities,SP500-55,Otter Tail Corporation
+PLD,Real Estate,SP500-60,Prologis
+AMT,Real Estate,SP500-60,American Tower Corporation
+EQIX,Real Estate,SP500-60,Equinix
+CCI,Real Estate,SP500-60,Crown Castle Inc.
+PSA,Real Estate,SP500-60,Public Storage
+SPG,Real Estate,SP500-60,Simon Property Group
+O,Real Estate,SP500-60,Realty Income Corporation
+CSGP,Real Estate,SP500-60,CoStar Group
+VICI,Real Estate,SP500-60,VICI Properties Inc.
+SBAC,Real Estate,SP500-60,SBA Communications Corporation
+WELL,Real Estate,SP500-60,Welltower Inc.
+DLR,Real Estate,SP500-60,Digital Realty Trust
+EQR,Real Estate,SP500-60,Equity Residential
+ARE,Real Estate,SP500-60,Alexandria Real Estate Equities
+CBRE,Real Estate,SP500-60,CBRE Group
+AVB,Real Estate,SP500-60,AvalonBay Communities
+WY,Real Estate,SP500-60,Weyerhaeuser Company
+UDR,Real Estate,SP500-60,UDR
+EXR,Real Estate,SP500-60,Extra Space Storage Inc.
+MAA,Real Estate,SP500-60,Mid-America Apartment Communities
+INVH,Real Estate,SP500-60,Invitation Homes Inc.
+BEKE,Real Estate,SP500-60,KE Holdings Inc.
+VTR,Real Estate,SP500-60,Ventas
+SUI,Real Estate,SP500-60,Sun Communities
+WPC,Real Estate,SP500-60,W. P. Carey Inc.
+IRM,Real Estate,SP500-60,Iron Mountain Incorporated
+ESS,Real Estate,SP500-60,Essex Property Trust
+PEAK,Real Estate,SP500-60,Healthpeak Properties
+KIM,Real Estate,SP500-60,Kimco Realty Corporation
+GLPI,Real Estate,SP500-60,Gaming and Leisure Properties
+AMH,Real Estate,SP500-60,American Homes 4 Rent
+HST,Real Estate,SP500-60,Host Hotels & Resorts
+ELS,Real Estate,SP500-60,Equity LifeStyle Properties
+NLY,Real Estate,SP500-60,Annaly Capital Management
+CPT,Real Estate,SP500-60,Camden Property Trust
+REG,Real Estate,SP500-60,Regency Centers Corporation
+BPYPP,Real Estate,SP500-60,Brookfield Property Partners L.P.
+REXR,Real Estate,SP500-60,Rexford Industrial Realty
+BXP,Real Estate,SP500-60,Boston Properties
+LAMR,Real Estate,SP500-60,Lamar Advertising Company
+CUBE,Real Estate,SP500-60,CubeSmart
+LSI,Real Estate,SP500-60,Life Storage
+VNO,Real Estate,SP500-60,Vornado Realty Trust
+STOR,Real Estate,SP500-60,STORE Capital Corporation
+FRT,Real Estate,SP500-60,Federal Realty Investment Trust
+AGNCN,Real Estate,SP500-60,AGNC Investment Corp.
+NNN,Real Estate,SP500-60,National Retail Properties
+JLL,Real Estate,SP500-60,Jones Lang LaSalle Incorporated
+COLD,Real Estate,SP500-60,Americold Realty Trust
+HR,Real Estate,SP500-60,Healthcare Realty Trust Incorporated
+AGNCM,Real Estate,SP500-60,AGNC Investment Corp.
+MPW,Real Estate,SP500-60,Medical Properties Trust
+OHI,Real Estate,SP500-60,Omega Healthcare Investors
+BRX,Real Estate,SP500-60,Brixmor Property Group Inc.
+EGP,Real Estate,SP500-60,EastGroup Properties
+FR,Real Estate,SP500-60,First Industrial Realty Trust
+STWD,Real Estate,SP500-60,Starwood Property Trust
+ADC,Real Estate,SP500-60,Agree Realty Corporation
+STAG,Real Estate,SP500-60,STAG Industrial
+SLG,Real Estate,SP500-60,SL Green Realty Corp.
+OFC,Real Estate,SP500-60,Corporate Office Properties Trust
+SRC,Real Estate,SP500-60,Spirit Realty Capital
+AGNC,Real Estate,SP500-60,AGNC Investment Corp.
+AIRC,Real Estate,SP500-60,Apartment Income REIT Corp.
+FSV,Real Estate,SP500-60,FirstService Corporation
+NSA,Real Estate,SP500-60,National Storage Affiliates Trust
+RYN,Real Estate,SP500-60,Rayonier Inc.
+RHP,Real Estate,SP500-60,Ryman Hospitality Properties
+KRG,Real Estate,SP500-60,Kite Realty Group Trust
+KRC,Real Estate,SP500-60,Kilroy Realty Corporation
+TRNO,Real Estate,SP500-60,Terreno Realty Corporation
+PECO,Real Estate,SP500-60,Phillips Edison & Company
+RITM,Real Estate,SP500-60,Rithm Capital Corp.
+IRT,Real Estate,SP500-60,Independence Realty Trust
+EPR,Real Estate,SP500-60,EPR Properties
+BXMT,Real Estate,SP500-60,Blackstone Mortgage Trust
+CIGI,Real Estate,SP500-60,Colliers International Group Inc.
+HHC,Real Estate,SP500-60,The Howard Hughes Corporation
+CUZ,Real Estate,SP500-60,Cousins Properties Incorporated
+PCH,Real Estate,SP500-60,PotlatchDeltic Corporation
+APLE,Real Estate,SP500-60,Apple Hospitality REIT
+PSB,Real Estate,SP500-60,PS Business Parks
+EQC,Real Estate,SP500-60,Equity Commonwealth

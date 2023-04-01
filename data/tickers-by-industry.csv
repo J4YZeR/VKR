@@ -1,0 +1,996 @@
+ticker,industry,index
+UPS,Transportation,DJT
+UNP,Transportation,DJT
+CSX,Transportation,DJT
+NSC,Transportation,DJT
+UBER,Transportation,DJT
+FDX,Transportation,DJT
+SYY,Transportation,DJT
+ODFL,Transportation,DJT
+LUV,Transportation,DJT
+DAL,Transportation,DJT
+JBHT,Transportation,DJT
+EXPD,Transportation,DJT
+UAL,Transportation,DJT
+GRAB,Transportation,DJT
+CHRW,Transportation,DJT
+PFGC,Transportation,DJT
+KNX,Transportation,DJT
+AAL,Transportation,DJT
+YMM,Transportation,DJT
+SAIA,Transportation,DJT
+LSTR,Transportation,DJT
+ALK,Transportation,DJT
+GXO,Transportation,DJT
+SNDR,Transportation,DJT
+XPO,Transportation,DJT
+R,Transportation,DJT
+LYFT,Transportation,DJT
+GATX,Transportation,DJT
+KEX,Transportation,DJT
+CPA,Transportation,DJT
+STNG,Transportation,DJT
+VNT,Transportation,DJT
+AAWW,Transportation,DJT
+FWRD,Transportation,DJT
+WERN,Transportation,DJT
+HUBG,Transportation,DJT
+ULCC,Transportation,DJT
+GLNG,Transportation,DJT
+MATX,Transportation,DJT
+JBLU,Transportation,DJT
+SAVE,Transportation,DJT
+VRRM,Transportation,DJT
+ZIM,Transportation,DJT
+SBLK,Transportation,DJT
+ATSG,Transportation,DJT
+INSW,Transportation,DJT
+ARCB,Transportation,DJT
+GOGL,Transportation,DJT
+DADA,Transportation,DJT
+MRTN,Transportation,DJT
+DHT,Transportation,DJT
+CAAP,Transportation,DJT
+ALGT,Transportation,DJT
+SFL,Transportation,DJT
+MODV,Transportation,DJT
+HTLD,Transportation,DJT
+DAC,Transportation,DJT
+CMRE,Transportation,DJT
+SNCY,Transportation,DJT
+TNK,Transportation,DJT
+RTX,Aerospace & Defense,DJUSAE
+HON,Aerospace & Defense,DJUSAE
+LMT,Aerospace & Defense,DJUSAE
+BA,Aerospace & Defense,DJUSAE
+NOC,Aerospace & Defense,DJUSAE
+GD,Aerospace & Defense,DJUSAE
+LHX,Aerospace & Defense,DJUSAE
+TDG,Aerospace & Defense,DJUSAE
+TDY,Aerospace & Defense,DJUSAE
+HEI,Aerospace & Defense,DJUSAE
+HWM,Aerospace & Defense,DJUSAE
+TXT,Aerospace & Defense,DJUSAE
+LDOS,Aerospace & Defense,DJUSAE
+AXON,Aerospace & Defense,DJUSAE
+HII,Aerospace & Defense,DJUSAE
+IOT,Aerospace & Defense,DJUSAE
+CW,Aerospace & Defense,DJUSAE
+HXL,Aerospace & Defense,DJUSAE
+AJRD,Aerospace & Defense,DJUSAE
+SPR,Aerospace & Defense,DJUSAE
+DRS,Aerospace & Defense,DJUSAE
+MRCY,Aerospace & Defense,DJUSAE
+MOG.A,Aerospace & Defense,DJUSAE
+JOBY,Aerospace & Defense,DJUSAE
+AVAV,Aerospace & Defense,DJUSAE
+EVEX,Aerospace & Defense,DJUSAE
+RKLB,Aerospace & Defense,DJUSAE
+AIR,Aerospace & Defense,DJUSAE
+OSIS,Aerospace & Defense,DJUSAE
+SPCE,Aerospace & Defense,DJUSAE
+JPM,Banks,DJUSBK
+BAC,Banks,DJUSBK
+WFC,Banks,DJUSBK
+USB,Banks,DJUSBK
+FISV,Banks,DJUSBK
+PNC,Banks,DJUSBK
+TFC,Banks,DJUSBK
+COF,Banks,DJUSBK
+MTB,Banks,DJUSBK
+FITB,Banks,DJUSBK
+FRC,Banks,DJUSBK
+HBAN,Banks,DJUSBK
+RF,Banks,DJUSBK
+CFG,Banks,DJUSBK
+KEY,Banks,DJUSBK
+SIVB,Banks,DJUSBK
+FHN,Banks,DJUSBK
+BAP,Banks,DJUSBK
+FCNCA,Banks,DJUSBK
+EWBC,Banks,DJUSBK
+CMA,Banks,DJUSBK
+CBSH,Banks,DJUSBK
+CFR,Banks,DJUSBK
+WBS,Banks,DJUSBK
+ALLY,Banks,DJUSBK
+SBNY,Banks,DJUSBK
+ZION,Banks,DJUSBK
+BOKF,Banks,DJUSBK
+WAL,Banks,DJUSBK
+PB,Banks,DJUSBK
+NYCB,Banks,DJUSBK
+GBCI,Banks,DJUSBK
+SSB,Banks,DJUSBK
+VLY,Banks,DJUSBK
+PNFP,Banks,DJUSBK
+SNV,Banks,DJUSBK
+UBSI,Banks,DJUSBK
+ONB,Banks,DJUSBK
+FFIN,Banks,DJUSBK
+WTFC,Banks,DJUSBK
+OZK,Banks,DJUSBK
+BPOP,Banks,DJUSBK
+HOMB,Banks,DJUSBK
+CADE,Banks,DJUSBK
+FNB,Banks,DJUSBK
+HWC,Banks,DJUSBK
+FIBK,Banks,DJUSBK
+TFSL,Banks,DJUSBK
+INDB,Banks,DJUSBK
+UMBF,Banks,DJUSBK
+UMPQ,Banks,DJUSBK
+SFBS,Banks,DJUSBK
+CVBF,Banks,DJUSBK
+UCBI,Banks,DJUSBK
+ABCB,Banks,DJUSBK
+ASB,Banks,DJUSBK
+CBU,Banks,DJUSBK
+EBC,Banks,DJUSBK
+PPBI,Banks,DJUSBK
+FHB,Banks,DJUSBK
+CATY,Banks,DJUSBK
+BOH,Banks,DJUSBK
+BANF,Banks,DJUSBK
+IBOC,Banks,DJUSBK
+PACW,Banks,DJUSBK
+TCBI,Banks,DJUSBK
+WSFS,Banks,DJUSBK
+FULT,Banks,DJUSBK
+AUB,Banks,DJUSBK
+BKU,Banks,DJUSBK
+SFNC,Banks,DJUSBK
+IBTX,Banks,DJUSBK
+FBP,Banks,DJUSBK
+FRME,Banks,DJUSBK
+COLB,Banks,DJUSBK
+AX,Banks,DJUSBK
+CLBK,Banks,DJUSBK
+FFBC,Banks,DJUSBK
+TOWN,Banks,DJUSBK
+PRK,Banks,DJUSBK
+AMGN,Biotechnology,DJUSBT
+GILD,Biotechnology,DJUSBT
+MRNA,Biotechnology,DJUSBT
+BIIB,Biotechnology,DJUSBT
+BNTX,Biotechnology,DJUSBT
+ILMN,Biotechnology,DJUSBT
+BMRN,Biotechnology,DJUSBT
+TECH,Biotechnology,DJUSBT
+HALO,Biotechnology,DJUSBT
+RXDX,Biotechnology,DJUSBT
+DNLI,Biotechnology,DJUSBT
+TXG,Biotechnology,DJUSBT
+CRSP,Biotechnology,DJUSBT
+PCVX,Biotechnology,DJUSBT
+MRVI,Biotechnology,DJUSBT
+AXSM,Biotechnology,DJUSBT
+VIR,Biotechnology,DJUSBT
+ARWR,Biotechnology,DJUSBT
+BEAM,Biotechnology,DJUSBT
+PRTA,Biotechnology,DJUSBT
+ABCL,Biotechnology,DJUSBT
+BPMC,Biotechnology,DJUSBT
+IMCR,Biotechnology,DJUSBT
+OLK,Biotechnology,DJUSBT
+MYOV,Biotechnology,DJUSBT
+PROK,Biotechnology,DJUSBT
+MRTX,Biotechnology,DJUSBT
+RCUS,Biotechnology,DJUSBT
+RLAY,Biotechnology,DJUSBT
+BCRX,Biotechnology,DJUSBT
+ALVO,Biotechnology,DJUSBT
+ARVN,Biotechnology,DJUSBT
+VTYX,Biotechnology,DJUSBT
+IMVT,Biotechnology,DJUSBT
+KRYS,Biotechnology,DJUSBT
+SAVA,Biotechnology,DJUSBT
+NUVL,Biotechnology,DJUSBT
+XNCR,Biotechnology,DJUSBT
+RXRX,Biotechnology,DJUSBT
+PRME,Biotechnology,DJUSBT
+RCKT,Biotechnology,DJUSBT
+RYTM,Biotechnology,DJUSBT
+SNDX,Biotechnology,DJUSBT
+DICE,Biotechnology,DJUSBT
+FATE,Biotechnology,DJUSBT
+TWST,Biotechnology,DJUSBT
+DVAX,Biotechnology,DJUSBT
+KYMR,Biotechnology,DJUSBT
+VERV,Biotechnology,DJUSBT
+ME,Biotechnology,DJUSBT
+ACLX,Biotechnology,DJUSBT
+NVAX,Biotechnology,DJUSBT
+BBIO,Biotechnology,DJUSBT
+REPL,Biotechnology,DJUSBT
+ADPT,Biotechnology,DJUSBT
+INBX,Biotechnology,DJUSBT
+IMGO,Biotechnology,DJUSBT
+ZNTL,Biotechnology,DJUSBT
+QURE,Biotechnology,DJUSBT
+IMGN,Biotechnology,DJUSBT
+XOM,Oil & Gas,DJUSEN
+CVX,Oil & Gas,DJUSEN
+COP,Oil & Gas,DJUSEN
+EOG,Oil & Gas,DJUSEN
+SLB,Oil & Gas,DJUSEN
+OXY,Oil & Gas,DJUSEN
+PXD,Oil & Gas,DJUSEN
+EPD,Oil & Gas,DJUSEN
+MPC,Oil & Gas,DJUSEN
+PSX,Oil & Gas,DJUSEN
+VLO,Oil & Gas,DJUSEN
+HES,Oil & Gas,DJUSEN
+LNG,Oil & Gas,DJUSEN
+WMB,Oil & Gas,DJUSEN
+KMI,Oil & Gas,DJUSEN
+DVN,Oil & Gas,DJUSEN
+ET,Oil & Gas,DJUSEN
+HAL,Oil & Gas,DJUSEN
+MPLX,Oil & Gas,DJUSEN
+OKE,Oil & Gas,DJUSEN
+BKR,Oil & Gas,DJUSEN
+FANG,Oil & Gas,DJUSEN
+CTRA,Oil & Gas,DJUSEN
+MRO,Oil & Gas,DJUSEN
+IEP,Oil & Gas,DJUSEN
+APA,Oil & Gas,DJUSEN
+EQT,Oil & Gas,DJUSEN
+CHK,Oil & Gas,DJUSEN
+OVV,Oil & Gas,DJUSEN
+WES,Oil & Gas,DJUSEN
+MMP,Oil & Gas,DJUSEN
+AR,Oil & Gas,DJUSEN
+DINO,Oil & Gas,DJUSEN
+PAA,Oil & Gas,DJUSEN
+NOV,Oil & Gas,DJUSEN
+DCP,Oil & Gas,DJUSEN
+HESM,Oil & Gas,DJUSEN
+SWN,Oil & Gas,DJUSEN
+MTDR,Oil & Gas,DJUSEN
+MUR,Oil & Gas,DJUSEN
+RRC,Oil & Gas,DJUSEN
+NFG,Oil & Gas,DJUSEN
+PDCE,Oil & Gas,DJUSEN
+DTM,Oil & Gas,DJUSEN
+ENLC,Oil & Gas,DJUSEN
+CHRD,Oil & Gas,DJUSEN
+FTI,Oil & Gas,DJUSEN
+AM,Oil & Gas,DJUSEN
+HP,Oil & Gas,DJUSEN
+PBF,Oil & Gas,DJUSEN
+CIVI,Oil & Gas,DJUSEN
+MGY,Oil & Gas,DJUSEN
+NE,Oil & Gas,DJUSEN
+VAL,Oil & Gas,DJUSEN
+KNTK,Oil & Gas,DJUSEN
+SM,Oil & Gas,DJUSEN
+DEN,Oil & Gas,DJUSEN
+WHD,Oil & Gas,DJUSEN
+PTEN,Oil & Gas,DJUSEN
+CRK,Oil & Gas,DJUSEN
+ACDC,Oil & Gas,DJUSEN
+CRC,Oil & Gas,DJUSEN
+ETRN,Oil & Gas,DJUSEN
+CVI,Oil & Gas,DJUSEN
+WFRD,Oil & Gas,DJUSEN
+CNX,Oil & Gas,DJUSEN
+CEQP,Oil & Gas,DJUSEN
+RIG,Oil & Gas,DJUSEN
+LBRT,Oil & Gas,DJUSEN
+PR,Oil & Gas,DJUSEN
+KOS,Oil & Gas,DJUSEN
+NOG,Oil & Gas,DJUSEN
+PAGP,Oil & Gas,DJUSEN
+NEX,Oil & Gas,DJUSEN
+HPK,Oil & Gas,DJUSEN
+HEP,Oil & Gas,DJUSEN
+CPE,Oil & Gas,DJUSEN
+CRGY,Oil & Gas,DJUSEN
+USAC,Oil & Gas,DJUSEN
+DKL,Oil & Gas,DJUSEN
+KO,Food & Beverage,DJUSFB
+PEP,Food & Beverage,DJUSFB
+MDLZ,Food & Beverage,DJUSFB
+KDP,Food & Beverage,DJUSFB
+MNST,Food & Beverage,DJUSFB
+GIS,Food & Beverage,DJUSFB
+KHC,Food & Beverage,DJUSFB
+HSY,Food & Beverage,DJUSFB
+STZ,Food & Beverage,DJUSFB
+BF.A,Food & Beverage,DJUSFB
+KR,Food & Beverage,DJUSFB
+IFF,Food & Beverage,DJUSFB
+HRL,Food & Beverage,DJUSFB
+CCEP,Food & Beverage,DJUSFB
+K,Food & Beverage,DJUSFB
+MKC,Food & Beverage,DJUSFB
+TSN,Food & Beverage,DJUSFB
+CAG,Food & Beverage,DJUSFB
+CPB,Food & Beverage,DJUSFB
+SJM,Food & Beverage,DJUSFB
+LW,Food & Beverage,DJUSFB
+TAP,Food & Beverage,DJUSFB
+ACI,Food & Beverage,DJUSFB
+DAR,Food & Beverage,DJUSFB
+CELH,Food & Beverage,DJUSFB
+USFD,Food & Beverage,DJUSFB
+INGR,Food & Beverage,DJUSFB
+FLO,Food & Beverage,DJUSFB
+ASH,Food & Beverage,DJUSFB
+LANC,Food & Beverage,DJUSFB
+POST,Food & Beverage,DJUSFB
+BROS,Food & Beverage,DJUSFB
+COKE,Food & Beverage,DJUSFB
+FIZZ,Food & Beverage,DJUSFB
+SAM,Food & Beverage,DJUSFB
+BCPC,Food & Beverage,DJUSFB
+SMPL,Food & Beverage,DJUSFB
+SFM,Food & Beverage,DJUSFB
+TWNK,Food & Beverage,DJUSFB
+SXT,Food & Beverage,DJUSFB
+TR,Food & Beverage,DJUSFB
+JJSF,Food & Beverage,DJUSFB
+NOMD,Food & Beverage,DJUSFB
+GO,Food & Beverage,DJUSFB
+CALM,Food & Beverage,DJUSFB
+FRPT,Food & Beverage,DJUSFB
+THS,Food & Beverage,DJUSFB
+UTZ,Food & Beverage,DJUSFB
+DNUT,Food & Beverage,DJUSFB
+UNFI,Food & Beverage,DJUSFB
+WMK,Food & Beverage,DJUSFB
+NAPA,Food & Beverage,DJUSFB
+IMKTA,Food & Beverage,DJUSFB
+HAIN,Food & Beverage,DJUSFB
+SOVO,Food & Beverage,DJUSFB
+BRCC,Food & Beverage,DJUSFB
+CHEF,Food & Beverage,DJUSFB
+SPTN,Food & Beverage,DJUSFB
+ARKO,Food & Beverage,DJUSFB
+WEST,Food & Beverage,DJUSFB
+FCX,Industrial Metals & Mining,DJUSIM
+SCCO,Industrial Metals & Mining,DJUSIM
+NUE,Industrial Metals & Mining,DJUSIM
+NEM,Industrial Metals & Mining,DJUSIM
+GOLD,Industrial Metals & Mining,DJUSIM
+VMC,Industrial Metals & Mining,DJUSIM
+MLM,Industrial Metals & Mining,DJUSIM
+STLD,Industrial Metals & Mining,DJUSIM
+RS,Industrial Metals & Mining,DJUSIM
+CLF,Industrial Metals & Mining,DJUSIM
+AA,Industrial Metals & Mining,DJUSIM
+RGLD,Industrial Metals & Mining,DJUSIM
+MHK,Industrial Metals & Mining,DJUSIM
+X,Industrial Metals & Mining,DJUSIM
+TX,Industrial Metals & Mining,DJUSIM
+CMC,Industrial Metals & Mining,DJUSIM
+MP,Industrial Metals & Mining,DJUSIM
+UFPI,Industrial Metals & Mining,DJUSIM
+TREX,Industrial Metals & Mining,DJUSIM
+EXP,Industrial Metals & Mining,DJUSIM
+LPX,Industrial Metals & Mining,DJUSIM
+ATI,Industrial Metals & Mining,DJUSIM
+SUM,Industrial Metals & Mining,DJUSIM
+HL,Industrial Metals & Mining,DJUSIM
+SSRM,Industrial Metals & Mining,DJUSIM
+WOR,Industrial Metals & Mining,DJUSIM
+ARNC,Industrial Metals & Mining,DJUSIM
+NG,Industrial Metals & Mining,DJUSIM
+CRS,Industrial Metals & Mining,DJUSIM
+KALU,Industrial Metals & Mining,DJUSIM
+BRK.A,Insurance,DJUSIR
+CB,Insurance,DJUSIR
+MMC,Insurance,DJUSIR
+PGR,Insurance,DJUSIR
+AON,Insurance,DJUSIR
+MET,Insurance,DJUSIR
+AIG,Insurance,DJUSIR
+AFL,Insurance,DJUSIR
+TRV,Insurance,DJUSIR
+AJG,Insurance,DJUSIR
+PRU,Insurance,DJUSIR
+ALL,Insurance,DJUSIR
+WTW,Insurance,DJUSIR
+HIG,Insurance,DJUSIR
+ACGL,Insurance,DJUSIR
+WRB,Insurance,DJUSIR
+MKL,Insurance,DJUSIR
+CINF,Insurance,DJUSIR
+BRO,Insurance,DJUSIR
+L,Insurance,DJUSIR
+RE,Insurance,DJUSIR
+ERIE,Insurance,DJUSIR
+AFG,Insurance,DJUSIR
+GL,Insurance,DJUSIR
+CNA,Insurance,DJUSIR
+RYAN,Insurance,DJUSIR
+FNF,Insurance,DJUSIR
+RGA,Insurance,DJUSIR
+RNR,Insurance,DJUSIR
+UNM,Insurance,DJUSIR
+ORI,Insurance,DJUSIR
+AIZ,Insurance,DJUSIR
+KNSL,Insurance,DJUSIR
+VOYA,Insurance,DJUSIR
+RLI,Insurance,DJUSIR
+FAF,Insurance,DJUSIR
+LNC,Insurance,DJUSIR
+SIGI,Insurance,DJUSIR
+PRI,Insurance,DJUSIR
+THG,Insurance,DJUSIR
+AXS,Insurance,DJUSIR
+ESNT,Insurance,DJUSIR
+ACT,Insurance,DJUSIR
+MTG,Insurance,DJUSIR
+ESGR,Insurance,DJUSIR
+AGO,Insurance,DJUSIR
+BHF,Insurance,DJUSIR
+MSPR,Insurance,DJUSIR
+AEL,Insurance,DJUSIR
+KMPR,Insurance,DJUSIR
+BRP,Insurance,DJUSIR
+RDN,Insurance,DJUSIR
+HGTY,Insurance,DJUSIR
+CRVL,Insurance,DJUSIR
+CNO,Insurance,DJUSIR
+GNW,Insurance,DJUSIR
+TRUP,Insurance,DJUSIR
+MCY,Insurance,DJUSIR
+NMIH,Insurance,DJUSIR
+HMN,Insurance,DJUSIR
+UNH,Health Care Equipment & Services,DJUSMC
+TMO,Health Care Equipment & Services,DJUSMC
+DHR,Health Care Equipment & Services,DJUSMC
+ABT,Health Care Equipment & Services,DJUSMC
+ELV,Health Care Equipment & Services,DJUSMC
+MDT,Health Care Equipment & Services,DJUSMC
+CI,Health Care Equipment & Services,DJUSMC
+ISRG,Health Care Equipment & Services,DJUSMC
+SYK,Health Care Equipment & Services,DJUSMC
+BDX,Health Care Equipment & Services,DJUSMC
+HUM,Health Care Equipment & Services,DJUSMC
+CNC,Health Care Equipment & Services,DJUSMC
+A,Health Care Equipment & Services,DJUSMC
+EW,Health Care Equipment & Services,DJUSMC
+DXCM,Health Care Equipment & Services,DJUSMC
+IQV,Health Care Equipment & Services,DJUSMC
+MTD,Health Care Equipment & Services,DJUSMC
+RMD,Health Care Equipment & Services,DJUSMC
+ZBH,Health Care Equipment & Services,DJUSMC
+BAX,Health Care Equipment & Services,DJUSMC
+PODD,Health Care Equipment & Services,DJUSMC
+WAT,Health Care Equipment & Services,DJUSMC
+LH,Health Care Equipment & Services,DJUSMC
+MOH,Health Care Equipment & Services,DJUSMC
+STE,Health Care Equipment & Services,DJUSMC
+HOLX,Health Care Equipment & Services,DJUSMC
+WST,Health Care Equipment & Services,DJUSMC
+PKI,Health Care Equipment & Services,DJUSMC
+ABMD,Health Care Equipment & Services,DJUSMC
+DGX,Health Care Equipment & Services,DJUSMC
+COO,Health Care Equipment & Services,DJUSMC
+ALGN,Health Care Equipment & Services,DJUSMC
+BIO,Health Care Equipment & Services,DJUSMC
+TFX,Health Care Equipment & Services,DJUSMC
+QGEN,Health Care Equipment & Services,DJUSMC
+BRKR,Health Care Equipment & Services,DJUSMC
+PEN,Health Care Equipment & Services,DJUSMC
+SWAV,Health Care Equipment & Services,DJUSMC
+EXAS,Health Care Equipment & Services,DJUSMC
+NVCR,Health Care Equipment & Services,DJUSMC
+MASI,Health Care Equipment & Services,DJUSMC
+ACHC,Health Care Equipment & Services,DJUSMC
+GMED,Health Care Equipment & Services,DJUSMC
+INSP,Health Care Equipment & Services,DJUSMC
+AGL,Health Care Equipment & Services,DJUSMC
+XRAY,Health Care Equipment & Services,DJUSMC
+DVA,Health Care Equipment & Services,DJUSMC
+QDEL,Health Care Equipment & Services,DJUSMC
+BLCO,Health Care Equipment & Services,DJUSMC
+EHC,Health Care Equipment & Services,DJUSMC
+OPCH,Health Care Equipment & Services,DJUSMC
+NVST,Health Care Equipment & Services,DJUSMC
+OSH,Health Care Equipment & Services,DJUSMC
+ENSG,Health Care Equipment & Services,DJUSMC
+LHCG,Health Care Equipment & Services,DJUSMC
+IART,Health Care Equipment & Services,DJUSMC
+STVN,Health Care Equipment & Services,DJUSMC
+AZTA,Health Care Equipment & Services,DJUSMC
+GH,Health Care Equipment & Services,DJUSMC
+TDOC,Health Care Equipment & Services,DJUSMC
+NTRA,Health Care Equipment & Services,DJUSMC
+MMSI,Health Care Equipment & Services,DJUSMC
+HAE,Health Care Equipment & Services,DJUSMC
+ICUI,Health Care Equipment & Services,DJUSMC
+NARI,Health Care Equipment & Services,DJUSMC
+LNTH,Health Care Equipment & Services,DJUSMC
+ONEM,Health Care Equipment & Services,DJUSMC
+NEOG,Health Care Equipment & Services,DJUSMC
+DNA,Health Care Equipment & Services,DJUSMC
+AXNX,Health Care Equipment & Services,DJUSMC
+INMD,Health Care Equipment & Services,DJUSMC
+LIVN,Health Care Equipment & Services,DJUSMC
+IRTC,Health Care Equipment & Services,DJUSMC
+STAA,Health Care Equipment & Services,DJUSMC
+CNMD,Health Care Equipment & Services,DJUSMC
+PRVA,Health Care Equipment & Services,DJUSMC
+AMED,Health Care Equipment & Services,DJUSMC
+TNDM,Health Care Equipment & Services,DJUSMC
+SHC,Health Care Equipment & Services,DJUSMC
+ITGR,Health Care Equipment & Services,DJUSMC
+GOOG,Internet,DJUSNS
+AMZN,Internet,DJUSNS
+META,Internet,DJUSNS
+BABA,Internet,DJUSNS
+NFLX,Internet,DJUSNS
+PDD,Internet,DJUSNS
+MELI,Internet,DJUSNS
+LULU,Internet,DJUSNS
+BIDU,Internet,DJUSNS
+CSGP,Internet,DJUSNS
+SE,Internet,DJUSNS
+CPNG,Internet,DJUSNS
+IT,Internet,DJUSNS
+EBAY,Internet,DJUSNS
+DASH,Internet,DJUSNS
+VRSN,Internet,DJUSNS
+CHWY,Internet,DJUSNS
+PINS,Internet,DJUSNS
+CHKP,Internet,DJUSNS
+ETSY,Internet,DJUSNS
+SPOT,Internet,DJUSNS
+TME,Internet,DJUSNS
+MTCH,Internet,DJUSNS
+XP,Internet,DJUSNS
+VIPS,Internet,DJUSNS
+DOCS,Internet,DJUSNS
+BZ,Internet,DJUSNS
+SGFY,Internet,DJUSNS
+LU,Internet,DJUSNS
+IAC,Internet,DJUSNS
+ZD,Internet,DJUSNS
+ATHM,Internet,DJUSNS
+GLBE,Internet,DJUSNS
+AFRM,Internet,DJUSNS
+MMYT,Internet,DJUSNS
+WOOF,Internet,DJUSNS
+BRZE,Internet,DJUSNS
+GDRX,Internet,DJUSNS
+GETY,Internet,DJUSNS
+YELP,Internet,DJUSNS
+COUR,Internet,DJUSNS
+RVLV,Internet,DJUSNS
+ZIP,Internet,DJUSNS
+SSTK,Internet,DJUSNS
+VZIO,Internet,DJUSNS
+FTCH,Internet,DJUSNS
+CARG,Internet,DJUSNS
+UPST,Internet,DJUSNS
+IQ,Internet,DJUSNS
+ACVA,Internet,DJUSNS
+JNJ,Pharmaceuticals,DJUSPR
+LLY,Pharmaceuticals,DJUSPR
+PFE,Pharmaceuticals,DJUSPR
+ABBV,Pharmaceuticals,DJUSPR
+MRK,Pharmaceuticals,DJUSPR
+BMY,Pharmaceuticals,DJUSPR
+REGN,Pharmaceuticals,DJUSPR
+VRTX,Pharmaceuticals,DJUSPR
+ZTS,Pharmaceuticals,DJUSPR
+IDXX,Pharmaceuticals,DJUSPR
+ALNY,Pharmaceuticals,DJUSPR
+RPRX,Pharmaceuticals,DJUSPR
+HZNP,Pharmaceuticals,DJUSPR
+SGEN,Pharmaceuticals,DJUSPR
+INCY,Pharmaceuticals,DJUSPR
+VTRS,Pharmaceuticals,DJUSPR
+UTHR,Pharmaceuticals,DJUSPR
+NBIX,Pharmaceuticals,DJUSPR
+SRPT,Pharmaceuticals,DJUSPR
+RGEN,Pharmaceuticals,DJUSPR
+JAZZ,Pharmaceuticals,DJUSPR
+LEGN,Pharmaceuticals,DJUSPR
+CTLT,Pharmaceuticals,DJUSPR
+OGN,Pharmaceuticals,DJUSPR
+KRTX,Pharmaceuticals,DJUSPR
+ASND,Pharmaceuticals,DJUSPR
+APLS,Pharmaceuticals,DJUSPR
+IONS,Pharmaceuticals,DJUSPR
+ITCI,Pharmaceuticals,DJUSPR
+ROIV,Pharmaceuticals,DJUSPR
+PRGO,Pharmaceuticals,DJUSPR
+CERE,Pharmaceuticals,DJUSPR
+ALKS,Pharmaceuticals,DJUSPR
+HRMY,Pharmaceuticals,DJUSPR
+FOLD,Pharmaceuticals,DJUSPR
+BRBR,Pharmaceuticals,DJUSPR
+NTLA,Pharmaceuticals,DJUSPR
+RARE,Pharmaceuticals,DJUSPR
+PBH,Pharmaceuticals,DJUSPR
+ISEE,Pharmaceuticals,DJUSPR
+PTCT,Pharmaceuticals,DJUSPR
+IBRX,Pharmaceuticals,DJUSPR
+INSM,Pharmaceuticals,DJUSPR
+ACAD,Pharmaceuticals,DJUSPR
+AMLX,Pharmaceuticals,DJUSPR
+SAGE,Pharmaceuticals,DJUSPR
+XENE,Pharmaceuticals,DJUSPR
+CORT,Pharmaceuticals,DJUSPR
+AKRO,Pharmaceuticals,DJUSPR
+RVMD,Pharmaceuticals,DJUSPR
+SUPN,Pharmaceuticals,DJUSPR
+IRWD,Pharmaceuticals,DJUSPR
+PCRX,Pharmaceuticals,DJUSPR
+CPRX,Pharmaceuticals,DJUSPR
+RVNC,Pharmaceuticals,DJUSPR
+AGIO,Pharmaceuticals,DJUSPR
+KDNY,Pharmaceuticals,DJUSPR
+CVAC,Pharmaceuticals,DJUSPR
+DAWN,Pharmaceuticals,DJUSPR
+SWTX,Pharmaceuticals,DJUSPR
+AMPH,Pharmaceuticals,DJUSPR
+KROS,Pharmaceuticals,DJUSPR
+FGEN,Pharmaceuticals,DJUSPR
+EQRX,Pharmaceuticals,DJUSPR
+RETA,Pharmaceuticals,DJUSPR
+MNKD,Pharmaceuticals,DJUSPR
+TGTX,Pharmaceuticals,DJUSPR
+TVTX,Pharmaceuticals,DJUSPR
+ALLO,Pharmaceuticals,DJUSPR
+TARO,Pharmaceuticals,DJUSPR
+AMZN,Retail,DJUSRT
+WMT,Retail,DJUSRT
+HD,Retail,DJUSRT
+BABA,Retail,DJUSRT
+COST,Retail,DJUSRT
+CVS,Retail,DJUSRT
+LOW,Retail,DJUSRT
+PDD,Retail,DJUSRT
+TJX,Retail,DJUSRT
+TGT,Retail,DJUSRT
+DG,Retail,DJUSRT
+ORLY,Retail,DJUSRT
+AZO,Retail,DJUSRT
+MELI,Retail,DJUSRT
+LULU,Retail,DJUSRT
+ROST,Retail,DJUSRT
+WBA,Retail,DJUSRT
+KR,Retail,DJUSRT
+SE,Retail,DJUSRT
+DLTR,Retail,DJUSRT
+CPNG,Retail,DJUSRT
+EBAY,Retail,DJUSRT
+ULTA,Retail,DJUSRT
+TSCO,Retail,DJUSRT
+CHWY,Retail,DJUSRT
+BBY,Retail,DJUSRT
+ETSY,Retail,DJUSRT
+BURL,Retail,DJUSRT
+ACI,Retail,DJUSRT
+KMX,Retail,DJUSRT
+BLDR,Retail,DJUSRT
+FIVE,Retail,DJUSRT
+DKS,Retail,DJUSRT
+BBWI,Retail,DJUSRT
+BJ,Retail,DJUSRT
+TPR,Retail,DJUSRT
+CASY,Retail,DJUSRT
+PAG,Retail,DJUSRT
+AAP,Retail,DJUSRT
+FND,Retail,DJUSRT
+WSM,Retail,DJUSRT
+CPRI,Retail,DJUSRT
+VIPS,Retail,DJUSRT
+GME,Retail,DJUSRT
+MUSA,Retail,DJUSRT
+RH,Retail,DJUSRT
+LAD,Retail,DJUSRT
+M,Retail,DJUSRT
+AN,Retail,DJUSRT
+DDS,Retail,DJUSRT
+IAA,Retail,DJUSRT
+GPS,Retail,DJUSRT
+ASO,Retail,DJUSRT
+W,Retail,DJUSRT
+ABG,Retail,DJUSRT
+CHPT,Retail,DJUSRT
+SFM,Retail,DJUSRT
+GLBE,Retail,DJUSRT
+FL,Retail,DJUSRT
+VSCO,Retail,DJUSRT
+OLLI,Retail,DJUSRT
+SIG,Retail,DJUSRT
+EYE,Retail,DJUSRT
+KSS,Retail,DJUSRT
+AEO,Retail,DJUSRT
+GO,Retail,DJUSRT
+WOOF,Retail,DJUSRT
+JWN,Retail,DJUSRT
+GPI,Retail,DJUSRT
+RUSHA,Retail,DJUSRT
+CRI,Retail,DJUSRT
+URBN,Retail,DJUSRT
+WMK,Retail,DJUSRT
+LESL,Retail,DJUSRT
+BKE,Retail,DJUSRT
+ODP,Retail,DJUSRT
+PSMT,Retail,DJUSRT
+CWH,Retail,DJUSRT
+BOOT,Retail,DJUSRT
+IMKTA,Retail,DJUSRT
+NVDA,Semiconductor,DJUSSC
+AVGO,Semiconductor,DJUSSC
+TXN,Semiconductor,DJUSSC
+QCOM,Semiconductor,DJUSSC
+INTC,Semiconductor,DJUSSC
+AMD,Semiconductor,DJUSSC
+ADI,Semiconductor,DJUSSC
+MU,Semiconductor,DJUSSC
+KLAC,Semiconductor,DJUSSC
+NXPI,Semiconductor,DJUSSC
+ENPH,Semiconductor,DJUSSC
+MCHP,Semiconductor,DJUSSC
+TEL,Semiconductor,DJUSSC
+MRVL,Semiconductor,DJUSSC
+GFS,Semiconductor,DJUSSC
+ON,Semiconductor,DJUSSC
+MPWR,Semiconductor,DJUSSC
+FSLR,Semiconductor,DJUSSC
+SWKS,Semiconductor,DJUSSC
+QRVO,Semiconductor,DJUSSC
+WOLF,Semiconductor,DJUSSC
+LSCC,Semiconductor,DJUSSC
+AMKR,Semiconductor,DJUSSC
+ALGM,Semiconductor,DJUSSC
+TSEM,Semiconductor,DJUSSC
+FN,Semiconductor,DJUSSC
+MTSI,Semiconductor,DJUSSC
+SLAB,Semiconductor,DJUSSC
+IPGP,Semiconductor,DJUSSC
+POWI,Semiconductor,DJUSSC
+CRUS,Semiconductor,DJUSSC
+SHLS,Semiconductor,DJUSSC
+RMBS,Semiconductor,DJUSSC
+SYNA,Semiconductor,DJUSSC
+DIOD,Semiconductor,DJUSSC
+AMBA,Semiconductor,DJUSSC
+ARRY,Semiconductor,DJUSSC
+PI,Semiconductor,DJUSSC
+MXL,Semiconductor,DJUSSC
+SITM,Semiconductor,DJUSSC
+JKS,Semiconductor,DJUSSC
+SIMO,Semiconductor,DJUSSC
+CSIQ,Semiconductor,DJUSSC
+SMTC,Semiconductor,DJUSSC
+FORM,Semiconductor,DJUSSC
+COHU,Semiconductor,DJUSSC
+HIMX,Semiconductor,DJUSSC
+PLAB,Semiconductor,DJUSSC
+ADEA,Semiconductor,DJUSSC
+SATX,Semiconductor,DJUSSC
+MSFT,Software & Computer Services,DJUSSV
+ORCL,Software & Computer Services,DJUSSV
+ACN,Software & Computer Services,DJUSSV
+ADBE,Software & Computer Services,DJUSSV
+IBM,Software & Computer Services,DJUSSV
+CRM,Software & Computer Services,DJUSSV
+INTU,Software & Computer Services,DJUSSV
+ADP,Software & Computer Services,DJUSSV
+NOW,Software & Computer Services,DJUSSV
+ATVI,Software & Computer Services,DJUSSV
+VMW,Software & Computer Services,DJUSSV
+SNPS,Software & Computer Services,DJUSSV
+SNOW,Software & Computer Services,DJUSSV
+PANW,Software & Computer Services,DJUSSV
+ROP,Software & Computer Services,DJUSSV
+NTES,Software & Computer Services,DJUSSV
+CDNS,Software & Computer Services,DJUSSV
+WDAY,Software & Computer Services,DJUSSV
+PAYX,Software & Computer Services,DJUSSV
+ADSK,Software & Computer Services,DJUSSV
+SHOP,Software & Computer Services,DJUSSV
+SQ,Software & Computer Services,DJUSSV
+MSCI,Software & Computer Services,DJUSSV
+TEAM,Software & Computer Services,DJUSSV
+EA,Software & Computer Services,DJUSSV
+CTSH,Software & Computer Services,DJUSSV
+VRSK,Software & Computer Services,DJUSSV
+CRWD,Software & Computer Services,DJUSSV
+VEEV,Software & Computer Services,DJUSSV
+MBLY,Software & Computer Services,DJUSSV
+CDW,Software & Computer Services,DJUSSV
+DDOG,Software & Computer Services,DJUSSV
+TTD,Software & Computer Services,DJUSSV
+ANSS,Software & Computer Services,DJUSSV
+ZM,Software & Computer Services,DJUSSV
+EPAM,Software & Computer Services,DJUSSV
+PAYC,Software & Computer Services,DJUSSV
+RBLX,Software & Computer Services,DJUSSV
+NU,Software & Computer Services,DJUSSV
+ZS,Software & Computer Services,DJUSSV
+TTWO,Software & Computer Services,DJUSSV
+FDS,Software & Computer Services,DJUSSV
+BR,Software & Computer Services,DJUSSV
+NET,Software & Computer Services,DJUSSV
+PLTR,Software & Computer Services,DJUSSV
+FICO,Software & Computer Services,DJUSSV
+SNAP,Software & Computer Services,DJUSSV
+GEN,Software & Computer Services,DJUSSV
+PTC,Software & Computer Services,DJUSSV
+SPLK,Software & Computer Services,DJUSSV
+HUBS,Software & Computer Services,DJUSSV
+MDB,Software & Computer Services,DJUSSV
+AZPN,Software & Computer Services,DJUSSV
+AKAM,Software & Computer Services,DJUSSV
+TYL,Software & Computer Services,DJUSSV
+U,Software & Computer Services,DJUSSV
+SSNC,Software & Computer Services,DJUSSV
+JKHY,Software & Computer Services,DJUSSV
+BILL,Software & Computer Services,DJUSSV
+ZI,Software & Computer Services,DJUSSV
+GDDY,Software & Computer Services,DJUSSV
+PCTY,Software & Computer Services,DJUSSV
+DOCU,Software & Computer Services,DJUSSV
+BSY,Software & Computer Services,DJUSSV
+DT,Software & Computer Services,DJUSSV
+DOX,Software & Computer Services,DJUSSV
+OKTA,Software & Computer Services,DJUSSV
+CDAY,Software & Computer Services,DJUSSV
+TOST,Software & Computer Services,DJUSSV
+BILI,Software & Computer Services,DJUSSV
+BKI,Software & Computer Services,DJUSSV
+FFIV,Software & Computer Services,DJUSSV
+TWLO,Software & Computer Services,DJUSSV
+COIN,Software & Computer Services,DJUSSV
+DBX,Software & Computer Services,DJUSSV
+HOOD,Software & Computer Services,DJUSSV
+GLOB,Software & Computer Services,DJUSSV
+MANH,Software & Computer Services,DJUSSV
+NTNX,Software & Computer Services,DJUSSV
+GTLB,Software & Computer Services,DJUSSV
+PATH,Software & Computer Services,DJUSSV
+PCOR,Software & Computer Services,DJUSSV
+KBR,Software & Computer Services,DJUSSV
+CACI,Software & Computer Services,DJUSSV
+DLB,Software & Computer Services,DJUSSV
+CFLT,Software & Computer Services,DJUSSV
+XM,Software & Computer Services,DJUSSV
+DXC,Software & Computer Services,DJUSSV
+CLVT,Software & Computer Services,DJUSSV
+SAIC,Software & Computer Services,DJUSSV
+HCP,Software & Computer Services,DJUSSV
+COUP,Software & Computer Services,DJUSSV
+EXLS,Software & Computer Services,DJUSSV
+DNB,Software & Computer Services,DJUSSV
+CYBR,Software & Computer Services,DJUSSV
+ESTC,Software & Computer Services,DJUSSV
+CCCS,Software & Computer Services,DJUSSV
+INFA,Software & Computer Services,DJUSSV
+MNDY,Software & Computer Services,DJUSSV
+SMAR,Software & Computer Services,DJUSSV
+GWRE,Software & Computer Services,DJUSSV
+NATI,Software & Computer Services,DJUSSV
+PWSC,Software & Computer Services,DJUSSV
+SPSC,Software & Computer Services,DJUSSV
+FIVN,Software & Computer Services,DJUSSV
+WIX,Software & Computer Services,DJUSSV
+ALIT,Software & Computer Services,DJUSSV
+PSN,Software & Computer Services,DJUSSV
+PYCR,Software & Computer Services,DJUSSV
+EEFT,Software & Computer Services,DJUSSV
+TENB,Software & Computer Services,DJUSSV
+YOU,Software & Computer Services,DJUSSV
+BOX,Software & Computer Services,DJUSSV
+WK,Software & Computer Services,DJUSSV
+FRSH,Software & Computer Services,DJUSSV
+QLYS,Software & Computer Services,DJUSSV
+S,Software & Computer Services,DJUSSV
+KNBE,Software & Computer Services,DJUSSV
+CWAN,Software & Computer Services,DJUSSV
+BMBL,Software & Computer Services,DJUSSV
+APPF,Software & Computer Services,DJUSSV
+BL,Software & Computer Services,DJUSSV
+DV,Software & Computer Services,DJUSSV
+NEWR,Software & Computer Services,DJUSSV
+DLO,Software & Computer Services,DJUSSV
+ALTR,Software & Computer Services,DJUSSV
+APP,Software & Computer Services,DJUSSV
+RNG,Software & Computer Services,DJUSSV
+NSIT,Software & Computer Services,DJUSSV
+TDC,Software & Computer Services,DJUSSV
+INST,Software & Computer Services,DJUSSV
+SPT,Software & Computer Services,DJUSSV
+AYX,Software & Computer Services,DJUSSV
+ENV,Software & Computer Services,DJUSSV
+ASAN,Software & Computer Services,DJUSSV
+PLTK,Software & Computer Services,DJUSSV
+PEGA,Software & Computer Services,DJUSSV
+BLKB,Software & Computer Services,DJUSSV
+DAVA,Software & Computer Services,DJUSSV
+SRAD,Software & Computer Services,DJUSSV
+AAPL,Telecommunications,DJUSTL
+CSCO,Telecommunications,DJUSTL
+TMUS,Telecommunications,DJUSTL
+VZ,Telecommunications,DJUSTL
+T,Telecommunications,DJUSTL
+MSI,Telecommunications,DJUSTL
+GRMN,Telecommunications,DJUSTL
+UI,Telecommunications,DJUSTL
+LBRDA,Telecommunications,DJUSTL
+JNPR,Telecommunications,DJUSTL
+CIEN,Telecommunications,DJUSTL
+IRDM,Telecommunications,DJUSTL
+FYBR,Telecommunications,DJUSTL
+LUMN,Telecommunications,DJUSTL
+CALX,Telecommunications,DJUSTL
+GSAT,Telecommunications,DJUSTL
+CCOI,Telecommunications,DJUSTL
+EXTR,Telecommunications,DJUSTL
+TIGO,Telecommunications,DJUSTL
+VSAT,Telecommunications,DJUSTL
+GOGO,Telecommunications,DJUSTL
+ATUS,Telecommunications,DJUSTL
+USM,Telecommunications,DJUSTL
+COMM,Telecommunications,DJUSTL
+CLFD,Telecommunications,DJUSTL
+INFN,Telecommunications,DJUSTL
+LILA,Telecommunications,DJUSTL
+IDCC,Telecommunications,DJUSTL
+DGII,Telecommunications,DJUSTL
+HLIT,Telecommunications,DJUSTL
+EMR,Technology Hardware & Equipment,DJUSTQ
+KEYS,Technology Hardware & Equipment,DJUSTQ
+ROK,Technology Hardware & Equipment,DJUSTQ
+DELL,Technology Hardware & Equipment,DJUSTQ
+HPQ,Technology Hardware & Equipment,DJUSTQ
+FTV,Technology Hardware & Equipment,DJUSTQ
+HPE,Technology Hardware & Equipment,DJUSTQ
+TER,Technology Hardware & Equipment,DJUSTQ
+TRMB,Technology Hardware & Equipment,DJUSTQ
+ZBRA,Technology Hardware & Equipment,DJUSTQ
+SWK,Technology Hardware & Equipment,DJUSTQ
+SNA,Technology Hardware & Equipment,DJUSTQ
+FLEX,Technology Hardware & Equipment,DJUSTQ
+CGNX,Technology Hardware & Equipment,DJUSTQ
+PLUG,Technology Hardware & Equipment,DJUSTQ
+ST,Technology Hardware & Equipment,DJUSTQ
+LFUS,Technology Hardware & Equipment,DJUSTQ
+OLED,Technology Hardware & Equipment,DJUSTQ
+NOVT,Technology Hardware & Equipment,DJUSTQ
+COHR,Technology Hardware & Equipment,DJUSTQ
+VRT,Technology Hardware & Equipment,DJUSTQ
+AIMC,Technology Hardware & Equipment,DJUSTQ
+ONTO,Technology Hardware & Equipment,DJUSTQ
+SANM,Technology Hardware & Equipment,DJUSTQ
+AEIS,Technology Hardware & Equipment,DJUSTQ
+NCR,Technology Hardware & Equipment,DJUSTQ
+VSH,Technology Hardware & Equipment,DJUSTQ
+PLXS,Technology Hardware & Equipment,DJUSTQ
+NVMI,Technology Hardware & Equipment,DJUSTQ
+VIAV,Technology Hardware & Equipment,DJUSTQ
+ITRI,Technology Hardware & Equipment,DJUSTQ
+ESE,Technology Hardware & Equipment,DJUSTQ
+SONO,Technology Hardware & Equipment,DJUSTQ
+MTRN,Technology Hardware & Equipment,DJUSTQ
+FCEL,Technology Hardware & Equipment,DJUSTQ

@@ -1,0 +1,202 @@
+ticker,name
+BRK-B,Berkshire Hathaway Inc.
+BRK-A,Berkshire Hathaway Inc.
+V,Visa Inc.
+JPM,JPMorgan Chase & Co.
+MA,Mastercard Incorporated
+JPM-PC,JPMorgan Chase & Co.
+BAC,Bank of America Corporation
+JPM-PD,JPMorgan Chase & Co.
+BAC-PK,Bank of America Corporation
+BAC-PL,Bank of America Corporation
+BML-PH,Bank of America Corporation
+BML-PG,Bank of America Corporation
+BML-PL,Bank of America Corporation
+BML-PJ,Bank of America Corporation
+BAC-PB,Bank of America Corporation
+BAC-PE,Bank of America Corporation
+WFC-PL,Wells Fargo & Company
+WFC-PQ,Wells Fargo & Company
+WFC-PY,Wells Fargo & Company
+WFC-PR,Wells Fargo & Company
+C-PJ,Citigroup Inc.
+WFC,Wells Fargo & Company
+MS,Morgan Stanley
+SCHW,The Charles Schwab Corporation
+GS,The Goldman Sachs Group
+RY,Royal Bank of Canada
+HDB,HDFC Bank Limited
+WFC-PC,Wells Fargo & Company
+HSBC,HSBC Holdings plc
+TD,The Toronto-Dominion Bank
+C,Citigroup Inc.
+AXP,American Express Company
+SPGI,S&P Global Inc.
+BLK,BlackRock
+BX,Blackstone Inc.
+RY-PT,Royal Bank of Canada
+CB,Chubb Limited
+MMC,Marsh & McLennan Companies
+GS-PJ,The Goldman Sachs Group
+PYPL,PayPal Holdings
+GS-PK,The Goldman Sachs Group
+MS-PI,Morgan Stanley
+MS-PF,Morgan Stanley
+MS-PK,Morgan Stanley
+USB-PH,U.S. Bancorp
+MS-PE,Morgan Stanley
+IBN,ICICI Bank Limited
+PGR,The Progressive Corporation
+USB-PP,U.S. Bancorp
+MUFG,Mitsubishi UFJ Financial Group
+GS-PA,The Goldman Sachs Group
+MS-PA,Morgan Stanley
+GS-PD,The Goldman Sachs Group
+USB,U.S. Bancorp
+UBS,UBS Group AG
+AON,Aon plc
+CME,CME Group Inc.
+PNC,The PNC Financial Services Group
+BNS,The Bank of Nova Scotia
+ICE,Intercontinental Exchange
+BMO,Bank of Montreal
+MET,MetLife
+TFC,Truist Financial Corporation
+KKR,KKR & Co. Inc.
+MCO,Moody's Corporation
+SCHW-PD,The Charles Schwab Corporation
+BAM,Brookfield Asset Management Ltd
+AIG,American International Group
+SMFG,Sumitomo Mitsui Financial Group
+ING,ING Groep N.V.
+AFL,Aflac Incorporated
+TRV,The Travelers Companies
+MET-PA,MetLife
+MET-PE,MetLife
+AIG-PA,American International Group
+AJG,Arthur J. Gallagher & Co.
+MSCI,MSCI Inc.
+APO,Apollo Global Management
+PRU,Prudential Financial
+PUK,Prudential plc
+COF,Capital One Financial Corporation
+BK,The Bank of New York Mellon Corporation
+BBVA,Banco Bilbao Vizcaya Argentaria
+AMP,Ameriprise Financial
+ALL,The Allstate Corporation
+ALL-PH,The Allstate Corporation
+MFC,Manulife Financial Corporation
+BCS,Barclays PLC
+NDAQ,Nasdaq
+NWG,NatWest Group plc
+ALL-PG,The Allstate Corporation
+STT,State Street Corporation
+IBKR,Interactive Brokers Group
+DFS,Discover Financial Services
+SLF,Sun Life Financial Inc.
+TROW,T. Rowe Price Group
+WTW,Willis Towers Watson Public Limited Company
+MTB,M&T Bank Corporation
+HIG,The Hartford Financial Services Group
+RJF,Raymond James Financial
+FRC,First Republic Bank
+FITB,Fifth Third Bancorp
+ACGL,Arch Capital Group Ltd.
+PFG,Principal Financial Group
+DB,Deutsche Bank Aktiengesellschaft
+ARES,Ares Management Corporation
+HBAN,Huntington Bancshares Incorporated
+RF,Regions Financial Corporation
+CFG,Citizens Financial Group
+WRB,W. R. Berkley Corporation
+IX,ORIX Corporation
+STT-PG,State Street Corporation
+STT-PD,State Street Corporation
+HIG-PG,The Hartford Financial Services Group
+NTRS,Northern Trust Corporation
+CM,Canadian Imperial Bank of Commerce
+KEY-PK,KeyCorp
+FITBI,Fifth Third Bancorp
+MKL,Markel Corporation
+FDS,FactSet Research Systems Inc.
+CINF,Cincinnati Financial Corporation
+LPLA,LPL Financial Holdings Inc.
+BRO,Brown & Brown
+RKT,Rocket Companies
+OWL,Blue Owl Capital Inc.
+KEY,KeyCorp
+SYF,Synchrony Financial
+KEY-PJ,KeyCorp
+KB,KB Financial Group Inc.
+TW,Tradeweb Markets Inc.
+SHG,Shinhan Financial Group Co.
+CFG-PD,Citizens Financial Group
+FRC-PI,First Republic Bank
+KEY-PI,KeyCorp
+ERIE,Erie Indemnity Company
+BEN,Franklin Resources
+FRC-PH,First Republic Bank
+SIVB,SVB Financial Group
+L,Loews Corporation
+RF-PC,Regions Financial Corporation
+CRBG,Corebridge Financial
+RF-PB,Regions Financial Corporation
+FHN,First Horizon Corporation
+RE,Everest Re Group
+ACGLO,Arch Capital Group Ltd.
+AFG,American Financial Group
+GL,Globe Life Inc.
+EQH,Equitable Holdings
+CNA,CNA Financial Corporation
+CG,The Carlyle Group Inc.
+BAP,Credicorp Ltd.
+MKTX,MarketAxess Holdings Inc.
+ALLY,Ally Financial Inc.
+FCNCA,First Citizens BancShares
+RYAN,Ryan Specialty Holdings
+FNF,Fidelity National Financial
+TPG,TPG Inc.
+MORN,Morningstar
+BCH,Banco de Chile
+RGA,Reinsurance Group of America
+GS-PC,The Goldman Sachs Group
+EWBC,East West Bancorp
+IVZ,Invesco Ltd.
+CMA,Comerica Incorporated
+JEF,Jefferies Financial Group Inc.
+CFR,Cullen/Frost Bankers
+CBSH,Commerce Bancshares
+XP,XP Inc.
+SEIC,SEI Investments Company
+BSMX,Banco Santander México
+ltiple, Grupo Financiero Santander México
+UNM,Unum Group
+WBS,Webster Financial Corporation
+RNR,RenaissanceRe Holdings Ltd.
+SBNY,Signature Bank
+BSAC,Banco Santander-Chile
+ORI,Old Republic International Corporation
+ATH-PA,Athene Holding Ltd.
+ZION,Zions Bancorporation
+WF,Woori Financial Group Inc.
+VOYA-PB,Voya Financial
+RNR-PF,RenaissanceRe Holdings Ltd.
+AIZ,Assurant
+CIB,Bancolombia S.A.
+BOKF,BOK Financial Corporation
+WAL,Western Alliance Bancorporation
+KNSL,Kinsale Capital Group
+HLI,Houlihan Lokey
+SF,Stifel Financial Corp.
+PB,Prosperity Bancshares
+OAK-PB,Oaktree Capital Group
+NYCB,New York Community Bancorp
+VOYA,Voya Financial
+AMG,Affiliated Managers Group
+CACC,Credit Acceptance Corporation
+RLI,RLI Corp.
+GBCI,Glacier Bancorp
+SSB,SouthState Corporation
+DNB,Dun & Bradstreet Holdings
+VLY,Valley National Bancorp
+FAF,First American Financial Corporation

@@ -1,0 +1,1 @@
+# TODO: replace /Users/j4yzer/PycharmProjects/VKR to root path (grep /Users/j4yzer/PycharmProjects/VKR)
